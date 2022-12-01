@@ -5,7 +5,7 @@
 
 Владею :
 
-*  языками разметки HTML5, CSS3 ; 
+* языками разметки HTML5, CSS3 ; 
 * основами языка Javascript, Typescript ;
 * основами React, Vue ;
 * умею работать с препроцессорами SCSS, сборщиками и системами контроля версий Webpack, Git .
@@ -14,9 +14,9 @@
 
 ### Контакты 
 
-Telegram
-   : (8-963-788-27-32)
+* Telegram
+    : ( 8-963-788-27-32 )
 
-Email
-   : (juliadooby@yandex.ru)
+* Email
+    : ( juliadooby@yandex.ru )
 
