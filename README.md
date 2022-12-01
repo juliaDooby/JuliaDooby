@@ -14,6 +14,6 @@
 
 ### Контакты 
 
-[telegram](@JuliMiroshnichenko)
+[telegram](8-963-788-27-32)
 [email](juliadooby@yandex.ru)
 
