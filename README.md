@@ -15,8 +15,8 @@
 ### Контакты 
 
 Telegram
-: (8-963-788-27-32)
+   : (8-963-788-27-32)
 
 Email
-: (juliadooby@yandex.ru)
+   : (juliadooby@yandex.ru)
 
