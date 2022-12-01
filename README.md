@@ -1,16 +1,19 @@
-### Hi there 👋
+# __Фронтенд Веб Разработчик__ 
+## Меня зовут **Юлия Мирошниченко**, я занимаюсь веб-разработкой с 2021 года. 
 
-<!--
-**JuliaMiroshnichenko/JuliaMiroshnichenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+Владею:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*  языками разметки HTML5, CSS3; 
+* основами языка Javascript, Typescript;
+* основами React, Vue;
+* умею работать с препроцессорами SCSS, сборщиками и системами контроля версий Webpack, Git.
+
+---
+
+### Контакты 
+
+[telegram](@JuliMiroshnichenko)
+[email](juliadooby@yandex.ru)
+
