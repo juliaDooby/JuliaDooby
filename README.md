@@ -1,6 +1,6 @@
 
-# __Dear Sir or Madam !,
-# __Nice to meet you on my Github page, here You can find samples of my work.  
+## Dear Sir or Madam !,
+## Nice to meet you on my Github page, here You can find samples of my work.  
 ## My name is Julia M.__
 ## I'm a Frontend Web developer since 2021 .
 
