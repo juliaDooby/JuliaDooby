@@ -4,7 +4,7 @@
 ### My name is Julia M., I'm a Frontend Web developer since 2021 .
 
 ---
-
+◢◤◢◤◢◤◢◤◢◤◢◤◢◤
  #### ◉ My hard skills: 
 
 * HTML5, CSS, SCSS
