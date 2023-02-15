@@ -29,9 +29,9 @@ Telegram : ( 8-963-788-27-32 )
 
 Email : ( juliadooby@yandex.ru )
 
-# Thank you in advance for taking the time to review my resume, for your kind cooperation, for your action in this regard.
+### Thank you in advance for taking the time to review my resume, for your kind cooperation, for your action in this regard.
 
-# Best regards,
-# Yours Faithfully,
-# Julia
-#  ❖
+#### Best regards,
+#### Yours Faithfully,
+#### Julia
+###  ❖
