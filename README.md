@@ -5,7 +5,7 @@
 
 ---
 
- #_◉ My hard skills: 
+ # ◉ My hard skills: 
 
 * HTML5, CSS, SCSS
 * JavaScript--ES6
