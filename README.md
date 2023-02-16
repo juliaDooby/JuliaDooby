@@ -20,18 +20,18 @@ _<h3 align="center">My name is Julia M., I'm a Frontend Web developer since 2021
 <!--  #### ◉ My hard skills:   --><h3 align="center">❖ My hard skills:</h3> 
 
 <h5 align="center">◆ HTML5, CSS, SCSS</h5>
-* JavaScript--ES6
-* TypeScript
-* React
-* Git
-* Webpack
-* Jquery
-* GSAP
-* Bootstrap
-* Material UI
-* BEM methodology
-* Airbnb()style
-* English - B2
+<h5 align="center">◆JavaScript--ES6</h5>
+<h5 align="center">◆TypeScript</h5>
+<h5 align="center">◆React</h5>
+<h5 align="center">◆Git</h5>
+<h5 align="center">◆Webpack</h5>
+<h5 align="center">◆Jquery</h5>
+<h5 align="center">◆GSAP</h5>
+<h5 align="center">◆Bootstrap</h5>
+<h5 align="center">◆Material UI</h5>
+<h5 align="center">◆BEM methodology</h5>
+<h5 align="center">◆Airbnb()style</h5>
+<h5 align="center">◆English - B2</h5>
  
 ---
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
