@@ -32,7 +32,7 @@
 * BEM methodology
 * Airbnb()style
 * English - B2
-<p3 align="center">![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)</p3>
+<h3 align="center">![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)</h3>
 ---
 ◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
 
