@@ -61,8 +61,8 @@ If you require any further information, you will find it in my CV or feel free t
 
  <h4 align="center">Thank you in advance for taking the time to review my resume, for your kind cooperation, for your action in this regard.</h4> 
 
- Best regards,
- Yours Faithfully,
- Julia
-  ❖
+ <h4 align="center">Best regards,</h4> 
+ <h4 align="center">Yours Faithfully,</h4> 
+ <h4 align="center">Julia</h4> 
+  <h4 align="center">❖</h4> 
   
