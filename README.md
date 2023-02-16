@@ -17,7 +17,7 @@
 ---
 <h3 align="center">◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢</h3> 
 
- #### ◉ My hard skills:  
+<!--  #### ◉ My hard skills:   --><h3 align="center">❖ My hard skills:</h3> 
 
 * HTML5, CSS, SCSS
 * JavaScript--ES6
