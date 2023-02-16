@@ -17,7 +17,7 @@ _<h3 align="center">My name is Julia M., I'm a Frontend Web developer since 2021
 ---
 <h3 align="center">◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢</h3> 
 
-<!--  #### ◉ My hard skills:   --><h2 align="center">❖ My hard skills:</h2> 
+<!--  #### ◉ My hard skills:   --><h4 align="center">❖ My hard skills:</h4> 
 
 * HTML5, CSS, SCSS
 * JavaScript--ES6
