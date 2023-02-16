@@ -39,7 +39,7 @@
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ---
-◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
+<h3 align="center">◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢</h3> 
 
 If you require any further information, you will find it in my CV or feel free to contact me.
 
