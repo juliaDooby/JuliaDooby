@@ -43,13 +43,14 @@
 
 If you require any further information, you will find it in my CV or feel free to contact me.
 
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white): 
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) 
+---
 ( 8-963-788-27-32 )
 
 Email : ( juliadooby@yandex.ru )
 ---
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-
+---
 
 ---
 ◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢
