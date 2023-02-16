@@ -1,7 +1,7 @@
 
 
 ---
-<!-- <h3 align="center">◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢</h3>  -->
+<h3 align="center">◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢</h3> 
 
 <h3 align="center">Dear Sir or Madam !,</h3> 
 <h3 align="center">Nice to meet you on my Github page,</h3>  
