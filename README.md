@@ -17,9 +17,9 @@
 ---
 <h3 align="center">◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢</h3> 
 
-<!--  #### ◉ My hard skills:  --><h4 align="center">◉ My hard skills:</h4> 
+ #### ◉ My hard skills:  
 
-<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>del.icio.us</title><path d="M12 12H0v12h12V12zM24 0H12v12h12V0z"/>HTML5, CSS, SCSS</svg> 
+* HTML5, CSS, SCSS
 * JavaScript--ES6
 * TypeScript
 * React
