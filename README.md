@@ -3,8 +3,8 @@
 ---
 <h3 align="center">◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢</h3> 
 
-<h3 align="center">Dear Sir or Madam !,</h3> 
-<h3 align="center">Nice to meet you on my Github page,</h3>  
+<h2 align="center">Dear Sir or Madam !,</h2> 
+<h2 align="center">Nice to meet you on my Github page,</h2>  
  <h3 align="center">Here You can find samples of my work.<a href="https://daniilshat.ru/" target="_blank"></a></h3>  
 <!-- <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h2> -->
 <h3 align="center">My name is Julia M., I'm a Frontend Web developer since 2021 .</h3>
