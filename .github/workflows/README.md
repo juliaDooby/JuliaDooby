@@ -1,5 +1,1 @@
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg">
-  <img alt="github-snake" src="github-snake.svg">
-</picture>
+<rect xmlns="http://www.w3.org/2000/svg" class="c" x="34" y="18" rx="2" ry="2"/>
