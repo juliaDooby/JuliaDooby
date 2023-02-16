@@ -43,9 +43,9 @@
 
 If you require any further information, you will find it in my CV or feel free to contact me.
 
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) 
+</h4>![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</h4> 
 
-[ 8--963--788--27--32 ]
+</h4>[ 8--963--788--27--32 ]</h4> 
 
 ---
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
