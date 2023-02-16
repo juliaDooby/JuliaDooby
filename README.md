@@ -45,12 +45,12 @@
 
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
-[ 8--963--788--27--32 ]
+❖ [ 8--963--788--27--32 ]
 
 ---
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
-[ juliadooby@yandex.ru ]
+❖ [ juliadooby@yandex.ru ]
 
 ---
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
