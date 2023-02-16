@@ -67,4 +67,4 @@ _<h3 align="center">My name is Julia M., I'm a Frontend Web developer since 2021
  <h4 align="center">Julia</h4> 
   <h4 align="center">❖</h4> 
   
-![snake gif](https://github.com/JuliaMiroshnichenko/JuliaMiroshnichenko/blob/output/github-contribution-grid-snake.svg)
+<h4 align="center">![snake gif](https://github.com/JuliaMiroshnichenko/JuliaMiroshnichenko/blob/output/github-contribution-grid-snake.svg)</h4> 
