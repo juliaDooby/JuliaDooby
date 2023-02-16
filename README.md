@@ -67,4 +67,4 @@ _<h3 align="center">My name is Julia M., I'm a Frontend Web developer since 2021
   <h4 align="center">❖</h4> 
   
 
- svg_out_path: dist/github-contribution-grid-snake.svg
+ dist/github-contribution-grid-snake.svg
