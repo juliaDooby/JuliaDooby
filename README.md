@@ -19,7 +19,7 @@ _<h3 align="center">My name is Julia M., I'm a Frontend Web developer since 2021
 
 <!--  #### ◉ My hard skills:   --><h3 align="center">❖ My hard skills:</h3> 
 
-<h3 align="center">❖ HTML5, CSS, SCSS</h3>
+<h4 align="center">❖ HTML5, CSS, SCSS</h4>
 * JavaScript--ES6
 * TypeScript
 * React
@@ -32,6 +32,7 @@ _<h3 align="center">My name is Julia M., I'm a Frontend Web developer since 2021
 * BEM methodology
 * Airbnb()style
 * English - B2
+ 
 ---
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
