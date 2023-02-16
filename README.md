@@ -19,7 +19,7 @@
 
 <!--  #### ◉ My hard skills:  --><h4 align="center">◉ My hard skills:</h4> 
 
-<h4 align="center">* HTML5, CSS, SCSS</h4>
+* HTML5, CSS, SCSS
 * JavaScript--ES6
 * TypeScript
 * React
