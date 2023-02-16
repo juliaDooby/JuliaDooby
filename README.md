@@ -41,7 +41,7 @@
 ---
 <h3 align="center">◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢</h3> 
 
-If you require any further information, you will find it in my CV or feel free to contact me.
+<h3 align="center">If you require any further information, you will find it in my CV or feel free to contact me.</h3> 
 
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
