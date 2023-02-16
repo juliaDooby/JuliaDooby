@@ -59,7 +59,7 @@ If you require any further information, you will find it in my CV or feel free t
 ---
 <h3 align="center">◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢</h3> 
 
- <h4 align="center">Thank you in advance for taking the time to review my resume, for your kind cooperation, for your action in this regard.</h4> 
+ <h5 align="center">Thank you in advance for taking the time to review my resume, for your kind cooperation, for your action in this regard.</h5> 
 
  Best regards,
  Yours Faithfully,
