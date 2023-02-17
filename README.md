@@ -17,22 +17,22 @@ _<h3 align="center">My name is Julia M., I'm a Frontend Web developer since 2021
 ---
 <h3 align="center">◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢</h3> 
 
-<!--  #### ◉ My hard skills:   --><h3 align="center">❖ My hard skills:</h3> 
+<!--  #### ◉ My hard skills:   --><h3 align="center">❖  My hard skills:</h3> 
 
 
-<h4 align="left">◆ HTML5, CSS, SCSS</h4>
-<h4 align="left">◆ JavaScript--ES6</h4>
-<h4 align="left">◆ TypeScript</h4>
-<h4 align="left">◆ React</h4>
-<h4 align="left">◆ Git</h4>
-<h4 align="left">◆ Webpack</h4>
-<h4 align="left">◆ Jquery</h4>
-<h4 align="left">◆ GSAP</h4>
-<h4 align="left">◆ Bootstrap</h4>
-<h4 align="left">◆ Material UI</h4>
-<h4 align="left">◆ BEM methodology</h4>
-<h4 align="left">◆ Airbnb()style</h4>
-<h4 align="left">◆ English - B2</h4>
+<h4 align="left">◆  HTML5, CSS, SCSS</h4>
+<h4 align="left">◆  JavaScript--ES6</h4>
+<h4 align="left">◆  TypeScript</h4>
+<h4 align="left">◆  React</h4>
+<h4 align="left">◆  Git</h4>
+<h4 align="left">◆  Webpack</h4>
+<h4 align="left">◆  Jquery</h4>
+<h4 align="left">◆  GSAP</h4>
+<h4 align="left">◆  Bootstrap</h4>
+<h4 align="left">◆  Material UI</h4>
+<h4 align="left">◆  BEM methodology</h4>
+<h4 align="left">◆  Airbnb()style</h4>
+<h4 align="left">◆  English - B2</h4>
  
 ---
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
