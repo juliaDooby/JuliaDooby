@@ -8,7 +8,7 @@ _<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme
  _<h3 align="center">Here You can find samples of my work.<a href="https://daniilshat.ru/" target="_blank"></a></h3>_
 <!-- <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h2> -->
 
-_<h3 align="center">My name is Julia M., I'm a Frontend Web developer since 2021 .</h3>_
+_<h3 align="center">My name is Julia, I'm a Frontend Web developer since 2021 .</h3>_
 
 <!-- ### Dear Sir or Madam !,
 ### Nice to meet you on my Github page, here You can find samples of my work.  
