@@ -34,6 +34,10 @@ _<h3 align="center">My name is Julia M., I'm a Frontend Web developer since 2021
 <h4 align="left">◆  Airbnb()style</h4>
 <h4 align="left">◆  English - B2</h4>
  
+◆  HTML5, CSS, SCSS
+◆  JavaScript--ES6
+◆  TypeScript
+◆  React
 ---
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
