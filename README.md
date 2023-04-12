@@ -59,18 +59,16 @@ repository: https://github.com/S-404/myCV
 
 ❖ [ 8--963--788--27--32 ]
 
----
 
  ![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
  ❖ [ juliadooby@yandex.ru ]
 
 <!-- ![Gmail]()  -->
----
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
-
 ---
+
 <h3 align="center">◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◣ ◢</h3>
 
  <h3 align="center">Thank you in advance for taking the time to review my resume, for your kind cooperation, for your action in this regard.</h3> 
