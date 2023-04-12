@@ -50,7 +50,7 @@ repository: https://github.com/S-404/myCV
 ---
 <h3 align="center">◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◣ ◢</h3>
 
-<h4 align="center">If you require any further information, you will find it in my CV or feel free to contact me.</h4> 
+<h3 align="center"><span style="color:22EBF7">If you require any further information, you will find it in my CV or feel free to contact me.</span></h3> 
 
 
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
