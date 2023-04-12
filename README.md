@@ -9,7 +9,8 @@ _<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme
 <!-- <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h2> -->
 
 _<h3 align="center">My name is Julia, I'm a Frontend Web developer since 2021 .</h3>_
-https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWIzZGM3NDUwNjY1Mzc5Nzc3YzM5NDc2ZjlhYzg0MTQ1MDBjZjI0NiZjdD1n/LHZyixOnHwDDy/giphy.gif
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWIzZGM3NDUwNjY1Mzc5Nzc3YzM5NDc2ZjlhYzg0MTQ1MDBjZjI0NiZjdD1n/LHZyixOnHwDDy/giphy.gif)
+
 
 <!-- ### Dear Sir or Madam !,
 ### Nice to meet you on my Github page, here You can find samples of my work.  
