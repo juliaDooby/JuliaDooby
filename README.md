@@ -53,13 +53,11 @@ _<h3 align="center">My name is Julia, I'm a Frontend Web developer since 2021 .<
 ❖ [ 8--963--788--27--32 ]
 
 ---
-<div id="header" align="center">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="100"/>
+<div id="header" align="left">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="100"/>❖ [ juliadooby@yandex.ru ]
 </div>
-❖ [ juliadooby@yandex.ru ]
-![Gmail]() 
 
-
+<!-- ![Gmail]()  -->
 ---
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
