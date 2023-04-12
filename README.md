@@ -71,11 +71,11 @@ repository: https://github.com/S-404/myCV
 ---
 <h3 align="center">◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◣ ◢</h3>
 
- <h4 align="center">Thank you in advance for taking the time to review my resume, for your kind cooperation, for your action in this regard.</h4> 
+ <h3 align="center">Thank you in advance for taking the time to review my resume, for your kind cooperation, for your action in this regard.</h3> 
 
- <h4 align="center">Best regards,</h4> 
- <h4 align="center">Yours Faithfully,</h4> 
- <h4 align="center">Julia</h4> 
-  <h4 align="center">❖</h4> 
+ <h3 align="center">Best regards,</h3> 
+ <h3 align="center">Yours Faithfully,</h3> 
+ <h3 align="center">Julia</h3> 
+  <h3 align="center">❖</h3> 
   
 ![snake gif](https://github.com/juliaDooby/juliaDooby/blob/output/github-contribution-grid-snake.svg)
