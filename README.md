@@ -44,7 +44,7 @@ _<h3 align="center">My name is Julia, I'm a Frontend Web developer since 2021 .<
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ---
-<h3 align="center">◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢</h3> 
+<h3 align="center">◢◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◣</h3>
 
 <h4 align="center">If you require any further information, you will find it in my CV or feel free to contact me.</h4> 
 
@@ -62,7 +62,7 @@ _<h3 align="center">My name is Julia, I'm a Frontend Web developer since 2021 .<
 
 
 ---
-<h3 align="center">◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢</h3> 
+<h3 align="center">◢◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◣</h3>
 
  <h4 align="center">Thank you in advance for taking the time to review my resume, for your kind cooperation, for your action in this regard.</h4> 
 
