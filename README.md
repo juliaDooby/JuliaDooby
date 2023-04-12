@@ -22,7 +22,7 @@ repository: https://github.com/S-404/myCV
 ### My name is Julia M., I'm a Frontend Web developer since 2021 . -->
 
 ---
-<h3 align="center">◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢</h3>
+<h3 align="center">◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◣ ◢</h3>
 
 <!--  #### ◉ My hard skills:   --><h3 align="center">❖  My hard skills:</h3> 
 
