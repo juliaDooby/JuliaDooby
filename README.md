@@ -10,7 +10,7 @@ _<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme
 
 _<h3 align="center">My name is Julia, I'm a Frontend Web developer since 2021 .</h3>_
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWIzZGM3NDUwNjY1Mzc5Nzc3YzM5NDc2ZjlhYzg0MTQ1MDBjZjI0NiZjdD1n/LHZyixOnHwDDy/giphy.gif" width="110"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWIzZGM3NDUwNjY1Mzc5Nzc3YzM5NDc2ZjlhYzg0MTQ1MDBjZjI0NiZjdD1n/LHZyixOnHwDDy/giphy.gif" width="100"/>
 </div>
 
 <!-- ### Dear Sir or Madam !,
