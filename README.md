@@ -76,7 +76,6 @@ repository: https://github.com/S-404/myCV
  <h3 align="center">Best regards,</h3> 
  <h3 align="center">Yours Faithfully,</h3> 
  <h3 align="center">Julia</h3> 
-   <h3 align="center">◢◣</h3> 
-  <h3 align="center">◥◤</h3> 
+   <h3 align="center">❖</h3> 
   
 ![snake gif](https://github.com/juliaDooby/juliaDooby/blob/output/github-contribution-grid-snake.svg)
