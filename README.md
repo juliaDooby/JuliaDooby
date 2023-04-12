@@ -5,7 +5,7 @@
 
 ***<h3 align="center">Dear Sir or Madam !</h3>***
 _<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4500&pause=1005&color=22EBF7&center=true&vCenter=true&multiline=true&width=474&lines=Nice+to+meet+you+on+my+Github+page+!" alt="Typing SVG" /></a></h3>_
- _<h3 align="center">Here You can find samples of my work<a href="https://daniilshat.ru/" target="_blank"></a></h3>_
+ _<h3 align="center">Here You can find samples of my work.<a href="https://daniilshat.ru/" target="_blank"></a></h3>_
 <!-- <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h2> -->
 
 _<h3 align="center">My name is Julia, I'm a Frontend Web developer since 2021 .</h3>_
@@ -48,6 +48,10 @@ _<h3 align="center">My name is Julia, I'm a Frontend Web developer since 2021 .<
 
 <h4 align="center">If you require any further information, you will find it in my CV or feel free to contact me.</h4> 
 
+<!-- my CV :
+preview: https://s-404.github.io/myCV/
+repository: https://github.com/S-404/myCV
+ -->
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
 ❖ [ 8--963--788--27--32 ]
