@@ -56,7 +56,7 @@ repository: https://github.com/S-404/myCV
 
 
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-
+| +7 (963) 788-27-32 |
 <!-- ❖ Contacts: 
 | +7 (963) 788-27-32 |
 | Telegram ( @juliaDooby ) |
