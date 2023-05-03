@@ -80,7 +80,7 @@ repository: https://github.com/S-404/myCV
 
 ---
 
-<h3 align="center">◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◣ ◢</h3>
+<!--<h3 align="center">◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◣ ◢</h3>-->
 
  <h3 align="center">Thank you in advance for taking the time to review my resume, for your kind cooperation, for your action in this regard.</h3> 
 
@@ -88,5 +88,8 @@ repository: https://github.com/S-404/myCV
  <h3 align="center">Yours Faithfully,</h3> 
  <h3 align="center">Julia</h3> 
    <h3 align="center">❖</h3> 
+   
+   <h3 align="center">◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◣ ◢</h3>
   
 ![snake gif](https://github.com/juliaDooby/juliaDooby/blob/output/github-contribution-grid-snake.svg)
+
