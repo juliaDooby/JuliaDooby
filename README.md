@@ -15,15 +15,17 @@ _<h3 align="center">My name is Julia, I'm a Frontend Web developer since 2021 </
 </div>
 
 ---
- _<h4 align="center"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png?v8" width="17"/> I'm currently working on my IT projects </h4>_
-_<h4 align="center"<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png?v8" width="17"/> draw illustrations </h4>_
-_<h4 align="center"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png?v8" width="17"/> play fortepiano </h4>_
-_<h4 align="center"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png?v8" width="17"/> learn new technologies in programming </h4>_
+
+ _<h4 align="center"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png?v8" width="17" /> I'm currently working on my IT projects </h4>_
+ _<h4 align="center"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png?v8" width="17" /> play fortepiano </h4>_
+ _<h4 align="center"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png?v8" width="17" /> learn new technologies in programming </h4>_ 
 
 ---
 <!-- my CV :
 preview: https://s-404.github.io/myCV/
 repository: https://github.com/S-404/myCV
+
+ _<h4 align="center"<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png?v8" width="17" /> draw illustrations </h4>_
  -->
 <!-- ### Dear Sir or Madam !,
 ### Nice to meet you on my Github page, here You can find samples of my work.  
