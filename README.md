@@ -16,9 +16,9 @@ _<h3 align="center">My name is Julia, I'm a Frontend Web developer since 2021 </
 
 ---
  _<h4 align="center"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png?v8" width="17" height="17"/> I'm currently working on my IT projects </h4>_
-_<h3 align="center">draw illustrations </h3>_
-_<h3 align="center">play fortepiano </h3>_
-_<h3 align="center">learn new technologies in programming </h3>_
+_<h4 align="center"<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png?v8" width="17" height="17"/>>draw illustrations </h4>_
+_<h4 align="center"><img src="https://github.githubassets.com/images/icons/emoji/unicode/U+1F4BB.png?v8" width="17" height="17"/>play fortepiano </h4>_
+_<h4 align="center"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png?v8" width="17" height="17"/>learn new technologies in programming </h4>_
 
 ---
 <!-- my CV :
