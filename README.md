@@ -84,7 +84,12 @@ repository: https://github.com/S-404/myCV
  ❖ [ juliadooby@yandex.ru ]
 
 <!-- ![Gmail]()  -->
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
+---
+
+***<h3 align="center">Socials:</h3>*** 
+
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) 
 
 ---
 
