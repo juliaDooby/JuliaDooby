@@ -15,7 +15,7 @@ _<h3 align="center">My name is Julia, I'm a Frontend Web developer since 2021 </
 </div>
 
 ---
- _<h3 align="center"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png?v8" width="20"/>I'm currently working on my IT projects </h3>_
+ _<h3 align="center"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png?v8" width="20"/> I'm currently working on my IT projects </h3>_
 _<h3 align="center">draw illustrations </h3>_
 _<h3 align="center">play fortepiano </h3>_
 _<h3 align="center">learn new technologies in programming </h3>_
