@@ -24,7 +24,7 @@ repository: https://github.com/S-404/myCV
 
 <h3 align="center">◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◣ ◢</h3>
 
-<!--  #### ◉ My hard skills:   --><h3 align="center">❖  My hard skills:</h3> 
+<!--  #### ◉ My hard skills:  <h3 align="center">❖  My hard skills:</h3> 
 
 
 <h4 align="left">◆  HTML5, CSS, SCSS</h4>
@@ -40,7 +40,7 @@ repository: https://github.com/S-404/myCV
 <h4 align="left">◆  BEM methodology</h4>
 <h4 align="left">◆  Airbnb()style</h4>
 <h4 align="left">◆  English - B2</h4>
- 
+  -->
 ---
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
