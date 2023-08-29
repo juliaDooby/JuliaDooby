@@ -4,7 +4,7 @@
 
 ---
 
-***<h2 align="center">Hi ![image](https://github.com/juliaDooby/JuliaDooby/assets/87147748/24c4a5fc-99d7-408c-ac7a-3e047bbcb6ad)  width="100"
+***<h2 align="center">Hi ![ width="100"](https://github.com/juliaDooby/JuliaDooby/assets/87147748/24c4a5fc-99d7-408c-ac7a-3e047bbcb6ad)  
 , I'm Julia Miroshnichenko</h2>***
 _<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4500&pause=1005&color=22EBF7&center=true&vCenter=true&multiline=true&width=474&lines=Nice+to+meet+you+on+my+Github+page+!" alt="Typing SVG" /></a></h3>_
  _<h3 align="center">Here You can find samples of my work<a href="https://daniilshat.ru/" target="_blank"></a></h3>_
