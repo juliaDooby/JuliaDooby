@@ -16,7 +16,7 @@ _<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme
 <!--  <iframe src="https://giphy.com/embed/26tPgbUUcfS5IWiTm" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe> -->
 <!--</div><p><a href="https://giphy.com/gifs/26tPgbUUcfS5IWiTm"></a></p> -->
 <div id="header" align="center">
-<img src=""[https://giphy.com/embed/26tPgbUUcfS5IWiTm](https://giphy.com/embed/26tPgbUUcfS5IWiTm)" width="400" height="200" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+<iframe src=""[https://giphy.com/embed/26tPgbUUcfS5IWiTm](https://giphy.com/embed/26tPgbUUcfS5IWiTm)" width="400" height="200" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/26tPgbUUcfS5IWiTm"></a></p>
 </div>
 
 <h3 align="center">My name is Julia, I'm a Frontend Web developer</h3>
