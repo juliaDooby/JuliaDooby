@@ -1,4 +1,4 @@
-<iframe src="https://assets.pinterest.com/ext/embed.html?id=962011170384569919" height="438" width="600" frameborder="0" scrolling="no" ></iframe>
+<img src="https://assets.pinterest.com/ext/embed.html?id=962011170384569919" height="438" width="600" frameborder="0" scrolling="no" ></img>
 [![MasterHead](https://i.pinimg.com/originals/6b/cd/f2/6bcdf2799bc8300f6684fe9b432c2c5b.gif)](https://juliadooby.io)
 <h1 align="center">Hi 👋, I'm Julia 🦋 Miroshnichenko</h1>
 <h3 align="center">A passionate Frontend Developer from Moscow</h3>
