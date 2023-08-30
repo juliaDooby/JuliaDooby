@@ -3,7 +3,7 @@
 <h3 align="center">◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◤◢◤◢◣◥◤◢</h3>
 
 ---
-<iframe src="https://giphy.com/embed/1XCcD9VLQZ2Io" width="600" height="300" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/girl-day-night-1XCcD9VLQZ2Io"></a></p>
+<iframe src="https://giphy.com/embed/1XCcD9VLQZ2Io" width="600" height="300" frameBorder="0" class="giphy-embed" allowFullScreen><p><a href="https://giphy.com/gifs/girl-day-night-1XCcD9VLQZ2Io"></a></p></iframe>
 
 ***<h2 align="center">Hi 👋, I'm Julia 🦋 Miroshnichenko</h2>***
 _<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4500&pause=1005&color=22EBF7&center=true&vCenter=true&multiline=true&width=474&lines=Nice+to+meet+you+on+my+Github+page+!" alt="Typing SVG" /></a></h3>_
