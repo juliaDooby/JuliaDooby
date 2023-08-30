@@ -1,124 +1,33 @@
+[![MasterHead]()](https://juliadooby.io)
+<h1 align="center">Hi 👋, I'm Julia 🦋 Miroshnichenko</h1>
+<h3 align="center">A passionate Frontend Developer from Moscow</h3>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=juliadooby&label=Profile%20views&color=0e75b6&style=flat" alt="juliadooby" /> </p>
 
-<h3 align="center">◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◤◢◤◢◣◥◤◢</h3>
+- 🔭 I’m currently working on **Threads**
 
----
+- 🌱 I’m currently learning **React Native, Node.js**
 
+- 👨‍💻 All of my projects are available at [-- in the pipeline --]()
 
-***<h2 align="center">Hi 👋, I'm Julia 🦋 Miroshnichenko</h2>***
-_<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4500&pause=1005&color=22EBF7&center=true&vCenter=true&multiline=true&width=474&lines=Nice+to+meet+you+on+my+Github+page+!" alt="Typing SVG" /></a></h3>_
+- 💬 Ask me about **Javascript, React**
 
-***<h3 align="center">A passionate Frontend Developer from Moscow</h3>***
- _<h3 align="center">Here You can find samples of my work<a href="https://daniilshat.ru/" target="_blank"></a></h3>_
-<!-- <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h2> -->
+- 📫 How to reach me **juliadooby@yandex.ru, (tg) @juliaDooby**
 
+<!-- <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/juliadooby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/juliadooby" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/juliadooby/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/juliadooby/" height="30" width="40" /></a>
+</p> -->
 
-<h3 align="center">My name is Julia, I'm a Frontend Web developer</h3>
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWIzZGM3NDUwNjY1Mzc5Nzc3YzM5NDc2ZjlhYzg0MTQ1MDBjZjI0NiZjdD1n/LHZyixOnHwDDy/giphy.gif" width="100"/>
-</div>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juliadooby&show_icons=true&locale=en&layout=compact" alt="juliadooby" /></p>
 
-<div id="header" align="center">
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;">
- <iframe src="https://giphy.com/embed/hpXdHPfFI5wTABdDx9" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen>
-  </iframe>
-<!-- </div
- ><p><a href="https://giphy.com/gifs/scaler-official-computer-laptop-hello-world-hpXdHPfFI5wTABdDx9">via GIPHY</a></p></div>-->
-<!--
- _<h4 align="center"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png?v8" width="17" /> I'm currently working on my IT projects </h4>_
- _<h4 align="center"<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png?v8" width="17" /> draw illustrations </h4>_
- _<h4 align="center"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png?v8" width="17" /> play fortepiano </h4>_
- _<h4 align="center"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png?v8" width="17" /> learn new technologies in programming </h4>_ 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juliadooby&show_icons=true&locale=en" alt="juliadooby" /></p>
 
----
- -->
-<!-- my CV :
-preview: https://s-404.github.io/myCV/
-repository: https://github.com/S-404/myCV
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juliadooby&" alt="juliadooby" /></p>
 
-
- -->
-<!-- ### Dear Sir or Madam !,
-### Nice to meet you on my Github page, here You can find samples of my work.  
-### My name is Julia M., I'm a Frontend Web developer since 2021 . -->
-
-<!-- <h3 align="center">◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◣ ◢</h3> 
-
-  #### ◉ My hard skills:  <h3 align="center">❖  My hard skills:</h3> 
-![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
-
-<h4 align="left">◆  HTML5, CSS, SCSS</h4>
-<h4 align="left">◆  JavaScript--ES6</h4>
-<h4 align="left">◆  TypeScript</h4>
-<h4 align="left">◆  React</h4>
-<h4 align="left">◆  Git</h4>
-<h4 align="left">◆  Webpack</h4>
-<h4 align="left">◆  Jquery</h4>
-<h4 align="left">◆  GSAP</h4>
-<h4 align="left">◆  Bootstrap</h4>
-<h4 align="left">◆  Material UI</h4>
-<h4 align="left">◆  BEM methodology</h4>
-<h4 align="left">◆  Airbnb()style</h4>
-<h4 align="left">◆  English - B2</h4>
-  
----
--->
-***<h3 align="center">Tech Stack:</h3>*** 
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![ES6+](https://img.shields.io/badge/es6+-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
----
-<!-- <h3 align="center">◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◣ ◢</h3> -->
-
-<h3 align="center">If you require any further information, you will find it in my CV or feel free to contact me.</h3> 
-
-
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-
-❖ | +7 (963) 788-27-32 |
-<!-- ❖ Contacts: 
-| +7 (963) 788-27-32 |
-| Telegram ( @juliaDooby ) |
-| juliadooby@yandex.ru | -->
-
-
- ![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-
- ❖ [ juliadooby@yandex.ru ]
-
-<!-- ![Gmail]()  -->
-
----
-
-***<h3 align="center">Socials:</h3>*** 
-
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) 
-
----
-
-<!--<h3 align="center">◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢/h3>-->
-
- <h3 align="center">Thank you in advance for taking the time to review my resume, for your kind cooperation, for your action in this regard.</h3> 
-
- <h3 align="center">Best regards,</h3> 
- <h3 align="center">Yours Faithfully,</h3> 
- <h3 align="center">Julia</h3> 
-   <h3 align="center">❖</h3> 
-   
-   ---
-   
-   <h3 align="center">◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◣◥◤◢◤◢◣◥◤◢◤◢◣◥◤◢</h3>
-  
 ![snake gif](https://github.com/juliaDooby/juliaDooby/blob/output/github-contribution-grid-snake.svg)
-
