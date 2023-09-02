@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/6b/cd/f2/6bcdf2799bc8300f6684fe9b432c2c5b.gif)](https://juliadooby.io)
+<!--[![MasterHead](https://i.pinimg.com/originals/6b/cd/f2/6bcdf2799bc8300f6684fe9b432c2c5b.gif)](https://juliadooby.io)-->
 
 <p align="center">
   <img src="[demo.gif](https://i.pinimg.com/originals/6b/cd/f2/6bcdf2799bc8300f6684fe9b432c2c5b.gif)(https://juliadooby.io)" alt="animated" />
