@@ -1,6 +1,6 @@
 <!--[![MasterHead](https://i.pinimg.com/originals/6b/cd/f2/6bcdf2799bc8300f6684fe9b432c2c5b.gif)](https://juliadooby.io) -->
 
-<div align="center"><img src="https://i.pinimg.com/originals/6b/cd/f2/6bcdf2799bc8300f6684fe9b432c2c5b.gif" width="80%"></img></div>
+<div align="center"><img src="https://i.pinimg.com/originals/6b/cd/f2/6bcdf2799bc8300f6684fe9b432c2c5b.gif" width="95%"></img></div>
 
 ***<h1 align="center">Hi 👋, I'm Julia 🦋 Miroshnichenko</h1>***
 ***<h3 align="center">A passionate Frontend Developer from Moscow</h3>*** 
