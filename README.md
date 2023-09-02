@@ -1,7 +1,7 @@
 <!--[![MasterHead](https://i.pinimg.com/originals/6b/cd/f2/6bcdf2799bc8300f6684fe9b432c2c5b.gif)](https://juliadooby.io)-->
 
 <p align="center">
-  <img src="[demo.gif](https://i.pinimg.com/originals/6b/cd/f2/6bcdf2799bc8300f6684fe9b432c2c5b.gif)(https://juliadooby.io)" alt="animated" />
+  <img src="[demo.gif](https://i.pinimg.com/originals/6b/cd/f2/6bcdf2799bc8300f6684fe9b432c2c5b.gif)" alt="animated" />
 </p>
 ***<h1 align="center">Hi 👋, I'm Julia 🦋 Miroshnichenko</h1>***
 ***<h3 align="center">A passionate Frontend Developer from Moscow</h3>***
