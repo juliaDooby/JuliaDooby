@@ -1,4 +1,4 @@
-<p align="center"> <img src="[![MasterHead](https://i.pinimg.com/originals/6b/cd/f2/6bcdf2799bc8300f6684fe9b432c2c5b.gif)](https://juliadooby.io)" alt="animated"/></p>
+<p align="center"><img src="[![MasterHead](https://i.pinimg.com/originals/6b/cd/f2/6bcdf2799bc8300f6684fe9b432c2c5b.gif)](https://juliadooby.io)" alt="animated"/></p>
 
 
 ***<h1 align="center">Hi 👋, I'm Julia 🦋 Miroshnichenko</h1>***
