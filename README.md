@@ -2,8 +2,8 @@
 
 <div align="center"><img src="https://i.pinimg.com/originals/6b/cd/f2/6bcdf2799bc8300f6684fe9b432c2c5b.gif"></img></div>
 
-***<h1 align="center"><font color='red'>Hi 👋, I'm Julia 🦋 Miroshnichenko</font></h1>***
-***<h3 align="center" style="color:cyan">A passionate Frontend Developer from Moscow</h3>*** 
+***<h1 align="center">Hi 👋, I'm Julia 🦋 Miroshnichenko</h1>***
+***<h3 align="center"><font color='red'>A passionate Frontend Developer from Moscow</font></h3>*** 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juliadooby&label=Profile%20views&color=0e75b6&style=flat" alt="juliadooby" /> </p>
