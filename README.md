@@ -31,6 +31,8 @@
 
 <p>&nbsp;<img align="center" style="box-shadow: 3px 3px 3px gray;" src="https://github-readme-stats.vercel.app/api?username=juliadooby&show_icons=true&locale=en" alt="juliadooby" /></p>
 
-<!-- <p><img align="center" style="box-shadow: 3px 3px 3px gray;" src="https://github-readme-streak-stats.herokuapp.com/?user=juliadooby&" alt="juliadooby" /></p> -->
+<p><img align="center" style="box-shadow: 3px 3px 3px gray;" src="https://github-readme-streak-stats.herokuapp.com/?user=juliadooby&" alt="juliadooby" /></p> 
+
+<div align="center"><img src="[https://i.pinimg.com/originals/6b/cd/f2/6bcdf2799bc8300f6684fe9b432c2c5b.gif](https://i.pinimg.com/564x/95/b6/eb/95b6eb32cc6c3b98edcf68843329bac7.jpg)" width="15%"></img></div>
 
 ![snake gif](https://github.com/juliaDooby/juliaDooby/blob/output/github-contribution-grid-snake.svg)
