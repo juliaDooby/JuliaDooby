@@ -32,7 +32,9 @@
 <p><img align="left" style="box-shadow: 3px 3px 3px gray;" src="https://github-readme-stats.vercel.app/api/top-langs?username=juliadooby&show_icons=true&locale=en&layout=compact" alt="juliadooby" /></p>
 
 <p>&nbsp;<img align="center" style="box-shadow: 3px 3px 3px gray;" src="https://github-readme-stats.vercel.app/api?username=juliadooby&show_icons=true&locale=en" alt="juliadooby" /></p>
-<div align="center"><img src="https://cdnb.artstation.com/p/assets/images/images/038/044/655/original/pixel-jeff-alley.gif?1622025440" width="35%"></img></div>
+
+<div align="center"><img src="https://cdnb.artstation.com/p/assets/images/images/038/044/655/original/pixel-jeff-alley.gif?1622025440" width="95%"></img></div>
+
 <!-- <p><img align="center" style="box-shadow: 3px 3px 3px gray;" src="https://github-readme-streak-stats.herokuapp.com/?user=juliadooby&" alt="juliadooby" /></p> -->
 
 ![snake gif](https://github.com/juliaDooby/juliaDooby/blob/output/github-contribution-grid-snake.svg)
