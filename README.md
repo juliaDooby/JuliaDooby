@@ -2,7 +2,7 @@
 <!--<div align="center"><img src="https://i.pinimg.com/564x/c0/0b/85/c00b8526d4324b4c12f85d131c751a07.jpg" height="30%" width="80%"></img></div>-->
 <!--<div align="center"><img src="https://i.pinimg.com/originals/6b/cd/f2/6bcdf2799bc8300f6684fe9b432c2c5b.gif" width="95%"></img></div>-->
 
-<div align="center"><img src="https://cdnb.artstation.com/p/assets/images/images/031/653/819/original/pixel-jeff-witch.gif?1604239834" width="100%"></img></div>
+<div align="center"><img src="https://cdnb.artstation.com/p/assets/images/images/031/653/819/original/pixel-jeff-witch.gif?1604239834" width="90%"></img></div>
 
 ***<h1 align="center">Hi 👋, I'm Julia 🍂 Miroshnichenko</h1>***
 ***<h3 align="center">A passionate Frontend Developer from Moscow</h3>*** 
