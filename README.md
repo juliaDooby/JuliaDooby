@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juliadooby&label=Profile%20views&color=0e75b6&style=flat" alt="juliadooby" /> </p>
 
-- 🔭 I’m currently working on **React Booking Reservation App **
+- 🔭 I’m currently working on **React Booking Reservation App**
 
 - 🌱 I’m currently learning **React Native, Node.js**
 
