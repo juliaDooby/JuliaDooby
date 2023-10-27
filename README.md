@@ -38,4 +38,4 @@
 ![snake gif](https://github.com/juliaDooby/juliaDooby/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center"><img src="https://cdnb.artstation.com/p/assets/images/images/038/044/655/original/pixel-jeff-alley.gif?1622025440" width="45%"></img></div>
-<div align="center"><img src="https://cdnb.artstation.com/p/assets/images/images/038/044/655/original/pixel-jeff-alley.gif?1622025440" width="100%" height="45%"></img></div>
+<div align="center"><img src="https://cdnb.artstation.com/p/assets/images/images/038/044/655/original/pixel-jeff-alley.gif?1622025440" width="100%" height="25%"></img></div>
