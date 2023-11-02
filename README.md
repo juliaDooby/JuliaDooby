@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **juliadooby@yandex.ru, (tg) @juliaDooby**
   
-- 🍎 My strong **key projects (pins) are below under this profile** 
+- 🍎 My strong **key projects (pins) are below under This Profile** 
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
