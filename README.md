@@ -19,6 +19,8 @@
 - 💬 Ask me about **Javascript, React**
 
 - 📫 How to reach me **juliadooby@yandex.ru, (tg) @juliaDooby**
+  
+- 🍎 My strong key projects (pins) are below under this profile** 
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
