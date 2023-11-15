@@ -47,6 +47,10 @@
   <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
   </a> 
+
+   <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux-toolkit/redux-original.svg" alt="redux" width="40" height="40"/> 
+  </a> 
   
   <!--
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
