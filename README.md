@@ -32,7 +32,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 
-![FRONTEND:](https://img.shields.io/badge/FRONTEND:-000000?style=for-the-badge&logo=FRONTEND:&logoColor=white)
 ![FRONTEND:](https://img.shields.io/badge/FRONTEND:-7a058a?style=for-the-badge&logo=FRONTEND:&logoColor=white)
 
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
@@ -83,7 +82,7 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a> 
 
-  ![BACKEND:](https://img.shields.io/badge/BACKEND:-000000?style=for-the-badge&logo=BACKEND:&logoColor=white)
+  ![BACKEND:](https://img.shields.io/badge/BACKEND:-7a058a?style=for-the-badge&logo=BACKEND:&logoColor=white)
   </p>
 
 <p><img align="left" style="box-shadow: 3px 3px 3px gray;" src="https://github-readme-stats.vercel.app/api/top-langs?username=juliadooby&show_icons=true&locale=en&layout=compact" alt="juliadooby" /></p>
