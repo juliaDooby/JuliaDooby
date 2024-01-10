@@ -41,7 +41,6 @@
 ![Teamwork](https://img.shields.io/badge/Teamwork-8a0631?style=for-the-badge&logo=teamwork&logoColor=white)
 ![Self-dependence](https://img.shields.io/badge/Self-dependence-8a0631?style=for-the-badge&logo=self-dependence&logoColor=white)
 ![Airbnb](https://img.shields.io/badge/Airbnb-%23ff5a5f.svg?style=for-the-badge&logo=Airbnb&logoColor=white)
-
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 
 <h3 align="left">Languages and Tools:</h3>
