@@ -62,6 +62,19 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adaptive](https://img.shields.io/badge/adaptive-%231572B6.svg?style=for-the-badge&logo=adaptive&logoColor=white)
 
+![Javascript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=react&logoColor=%23F7DF1E)
+![ES6+](https://img.shields.io/badge/es6+-%23593d88.svg?style=for-the-badge&logo=es6+&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/redux-Toolkit-%12717224.svg?style=for-the-badge&logo=redux-Toolkit&logoColor=white)
+![Redux-Saga](https://a11ybadges.com/badge?logo=reduxsaga)
+![React Hooks](https://img.shields.io/badge/React%20Hooks%20-%23EC5990.svg?style=for-the-badge&logo=reacthooks&logoColor=white)
+![Cors](https://img.shields.io/badge/cors-%23008080.svg?style=for-the-badge&logo=cors&logoColor=white)
+![ReactStrap](https://img.shields.io/badge/reactStrap-%23593d88.svg?style=for-the-badge&logo=reactStrap&logoColor=white)
+![MobX](https://a11ybadges.com/badge?logo=mobx)
+
 <!--   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a> 
