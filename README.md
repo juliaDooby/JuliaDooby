@@ -139,7 +139,7 @@
   </a>  -->
 
 
-  ![BACKEND:](https://img.shields.io/badge/BACKEND:-7a058a?style=for-the-badge&logo=BACKEND:&logoColor=white)
+  ![BACKEND: (minimal experience)](https://img.shields.io/badge/BACKEND:-7a058a?style=for-the-badge&logo=BACKEND:&logoColor=white)
 
   ---
   
