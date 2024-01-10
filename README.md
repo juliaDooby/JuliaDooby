@@ -48,7 +48,6 @@
 
 ![FRONTEND:](https://img.shields.io/badge/FRONTEND:-7a058a?style=for-the-badge&logo=FRONTEND:&logoColor=white)
 
----
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
@@ -78,6 +77,7 @@
 ![ReactStrap](https://img.shields.io/badge/reactStrap-%23593d88.svg?style=for-the-badge&logo=reactStrap&logoColor=white)
 ![MobX](https://a11ybadges.com/badge?logo=mobx)
 
+---
 <!--   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a> 
@@ -126,7 +126,7 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>  -->
 
----
+
   ![BACKEND:](https://img.shields.io/badge/BACKEND:-7a058a?style=for-the-badge&logo=BACKEND:&logoColor=white)
 
   ---
