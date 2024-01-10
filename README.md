@@ -33,6 +33,7 @@
 <p align="left"> 
 
 ![FRONTEND:](https://img.shields.io/badge/FRONTEND:-000000?style=for-the-badge&logo=FRONTEND:&logoColor=white)
+![FRONTEND:](https://img.shields.io/badge/FRONTEND:-7a058a?style=for-the-badge&logo=FRONTEND:&logoColor=white)
 
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
