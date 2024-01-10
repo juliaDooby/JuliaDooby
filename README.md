@@ -139,10 +139,29 @@
   </a>  -->
 
 
-  ![BACKEND (minimal-experience): ](https://img.shields.io/badge/BACKEND(minimal-experience):-7a058a?style=for-the-badge&logo=BACKEND(minimal-experience):&logoColor=white)
+  ![BACKEND (minimal-experience):](https://img.shields.io/badge/BACKEND(minimal-experience):-7a058a?style=for-the-badge&logo=BACKEND(minimal-experience):&logoColor=white)
 
   ---
-  
+![RestAPI](https://img.shields.io/badge/RestAPI-005571?style=for-the-badge&logo=restapi)
+![Rapid-API](https://img.shields.io/badge/Rapid--Api-000000?style=for-the-badge&logo=react)
+![Shazam-API](https://img.shields.io/badge/Shazam--API-005571?style=for-the-badge&logo=shazamapi)
+![Mongodb](https://img.shields.io/badge/Mongodb-0cc227?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-c20a1f?style=for-the-badge&logo=mongoose&logoColor=white)
+
+---
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+---
+ ![Testing:](https://img.shields.io/badge/Testing:-7a058a?style=for-the-badge&logo=Testing:&logoColor=white)
+
+ ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+ 
   </p>
 
 <p><img align="left" style="box-shadow: 3px 3px 3px gray;" src="https://github-readme-stats.vercel.app/api/top-langs?username=juliadooby&show_icons=true&locale=en&layout=compact" alt="juliadooby" /></p>
