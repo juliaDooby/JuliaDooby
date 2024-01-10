@@ -139,7 +139,7 @@
   </a>  -->
 
 
-  ![BACKEND(minimally):](https://img.shields.io/badge/BACKEND(minimally):-7a058a?style=for-the-badge&logo=BACKEND(minimally):&logoColor=white)
+  ![BACKEND(minimum):](https://img.shields.io/badge/BACKEND(minimum):-7a058a?style=for-the-badge&logo=BACKEND(minimum):&logoColor=white)
 
   ---
 ![RestAPI](https://img.shields.io/badge/RestAPI-005571?style=for-the-badge&logo=restapi)
