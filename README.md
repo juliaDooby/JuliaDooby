@@ -37,13 +37,9 @@
 
 <h3 align="left">Strong advantages:</h3>
 
-![English—B2–Upper-Intermediate](https://img.shields.io/badge/English—B2–Upper-Intermediate-000000?style=for-the-badge&logo=English—B2–Upper-Intermediate&logoColor=white)
-![Teamwork](https://img.shields.io/badge/Teamwork-%23026AA7.svg?style=for-the-badge&logo=Teamwork&logoColor=white)
-![Self-dependence](https://img.shields.io/badge/Self-dependence-%23026AA7.svg?style=for-the-badge&logo=Self-dependence&logoColor=white)
-
-![English—B2–Upper-Intermediate](https://img.shields.io/badge/English—B2–Upper-Intermediate-1ED760?style=for-the-badge&logo=English—B2–Upper-Intermediate&logoColor=white)
-![Teamwork](https://img.shields.io/badge/Teamwork-1ED760?style=for-the-badge&logo=teamwork&logoColor=white)
-![Self-dependence](https://img.shields.io/badge/Self-dependence-1ED760?style=for-the-badge&logo=self-dependence&logoColor=white)
+![English—B2–Upper-Intermediate](https://img.shields.io/badge/English—B2–Upper-Intermediate-8a0631?style=for-the-badge&logo=English—B2–Upper-Intermediate&logoColor=white)
+![Teamwork](https://img.shields.io/badge/Teamwork-8a0631?style=for-the-badge&logo=teamwork&logoColor=white)
+![Self-dependence](https://img.shields.io/badge/Self-dependence-8a0631?style=for-the-badge&logo=self-dependence&logoColor=white)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
