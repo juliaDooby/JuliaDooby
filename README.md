@@ -81,6 +81,15 @@
 ![Deploy](https://img.shields.io/badge/Deploy-CA4245?style=for-the-badge&logo=deploy&logoColor=white)
 
 ---
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Next Router](https://img.shields.io/badge/Next_Router-purple?style=for-the-badge&logo=next-router&logoColor=white)
+![Clerk](https://img.shields.io/badge/Clerk-1b80f3?style=for-the-badge&logo=clerk&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Webpack](https://img.shields.io/badge/webpack-%231572B6.svg?style=for-the-badge&logo=webpack&logoColor=white)
+
+---
+
 <!--   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a> 
