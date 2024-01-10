@@ -48,7 +48,21 @@
 
 ![FRONTEND:](https://img.shields.io/badge/FRONTEND:-7a058a?style=for-the-badge&logo=FRONTEND:&logoColor=white)
 
-   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![SCSS](https://img.shields.io/badge/scss-%231572B6.svg?style=for-the-badge&logo=scss3&logoColor=white)
+![BEM](https://img.shields.io/badge/bem-%2338B2AC.svg?style=for-the-badge&logo=bem&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Material-UI](https://img.shields.io/badge/material-ui-%23593d88.svg?style=for-the-badge&logo=material-ui&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![jsx-classnames](https://img.shields.io/badge/jsx-classnames-%23008080.svg?style=for-the-badge&logo=jsx-classnames&logoColor=white)
+![Adaptive](https://img.shields.io/badge/adaptive-%231572B6.svg?style=for-the-badge&logo=adaptive&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+
+<!--   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a> 
 
@@ -94,7 +108,7 @@
   
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
+  </a>  -->
 
   ![BACKEND:](https://img.shields.io/badge/BACKEND:-7a058a?style=for-the-badge&logo=BACKEND:&logoColor=white)
   </p>
