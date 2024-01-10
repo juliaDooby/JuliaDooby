@@ -73,6 +73,7 @@
 ![React Hooks](https://img.shields.io/badge/React%20Hooks%20-%23EC5990.svg?style=for-the-badge&logo=reacthooks&logoColor=white)
 ![Cors](https://img.shields.io/badge/cors-%23008080.svg?style=for-the-badge&logo=cors&logoColor=white)
 ![ReactStrap](https://img.shields.io/badge/reactStrap-%23593d88.svg?style=for-the-badge&logo=reactStrap&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-hotpink.svg?style=for-the-badge&logo=GSAP&logoColor=brown)
 ![MobX](https://a11ybadges.com/badge?logo=mobx)
 
 ---
