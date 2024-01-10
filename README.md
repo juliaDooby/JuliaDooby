@@ -75,6 +75,7 @@
 ![ReactStrap](https://img.shields.io/badge/reactStrap-%23593d88.svg?style=for-the-badge&logo=reactStrap&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-hotpink.svg?style=for-the-badge&logo=GSAP&logoColor=brown)
 ![MobX](https://a11ybadges.com/badge?logo=mobx)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 <!--   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
