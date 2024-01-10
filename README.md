@@ -29,6 +29,12 @@
 <a href="https://www.leetcode.com/https://leetcode.com/juliadooby/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/juliadooby/" height="30" width="40" /></a>
 </p> -->
 
+<h3 align="left">Projects:</h3>
+
+![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)
+![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 
