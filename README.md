@@ -75,6 +75,8 @@
 ![ReactStrap](https://img.shields.io/badge/reactStrap-%23593d88.svg?style=for-the-badge&logo=reactStrap&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-hotpink.svg?style=for-the-badge&logo=GSAP&logoColor=brown)
 ![MobX](https://a11ybadges.com/badge?logo=mobx)
+![Axios-react](https://img.shields.io/badge/Axios-react-hotpink.svg?style=for-the-badge&logo=Axios-react&logoColor=brown)
+![Seo-optimization](https://img.shields.io/badge/Seo-optimization%23217346.svg?style=for-the-badge&logo=Seo-optimization&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Deploy](https://img.shields.io/badge/Deploy-CA4245?style=for-the-badge&logo=deploy&logoColor=white)
 
