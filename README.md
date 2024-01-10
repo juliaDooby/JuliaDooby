@@ -37,7 +37,7 @@
 
 <h3 align="left">Strong advantages:</h3>
 
-![English—B2–Upper-Intermediate](https://img.shields.io/badge/English—B2–Upper-Intermediate-8a0631?style=for-the-badge&logo=English—B2–Upper-Intermediate&logoColor=white)
+![English.B2.Upper-Intermediate](https://img.shields.io/badge/English.B2.Upper-Intermediate-8a0631?style=for-the-badge&logo=English.B2.Upper-Intermediate&logoColor=white)
 ![Teamwork](https://img.shields.io/badge/Teamwork-8a0631?style=for-the-badge&logo=teamwork&logoColor=white)
 ![Self-dependence](https://img.shields.io/badge/Self-dependence-8a0631?style=for-the-badge&logo=self-dependence&logoColor=white)
 
