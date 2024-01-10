@@ -76,6 +76,7 @@
 ![GSAP](https://img.shields.io/badge/GSAP-hotpink.svg?style=for-the-badge&logo=GSAP&logoColor=brown)
 ![MobX](https://a11ybadges.com/badge?logo=mobx)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Deploy](https://img.shields.io/badge/Deploy-CA4245?style=for-the-badge&logo=deploy&logoColor=white)
 
 ---
 <!--   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
