@@ -6,7 +6,7 @@
 
 ***<h1 align="center">Hi 👋, I'm Julia 🍂 Miroshnichenko</h1>***
 <!-- ***<h3 align="center">A passionate Frontend Developer from Moscow</h3>*** -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=500&center=true&vCenter=true&random=false&width=550&height=80&lines=A+passionate+Frontend++Developer;Web+Developer+from+Moscow;+React+Frontend+Developer;React+Js+Developer+;Web+Js+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=500&center=true&vCenter=true&random=false&width=550&height=60&lines=A+passionate+Frontend++Developer;Web+Developer+from+Moscow;+React+Frontend+Developer;React+Js+Developer+;Web+Js+Developer)](https://git.io/typing-svg)
 
 <img align="right" alt="Coding" width="400" style="box-shadow: 3px 3px 3px gray;" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 
