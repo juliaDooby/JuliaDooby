@@ -5,7 +5,8 @@
 <div align="center"><img src="https://cdnb.artstation.com/p/assets/images/images/031/653/819/original/pixel-jeff-witch.gif?1604239834" width="100%" height="100%"></img></div>
 
 ***<h1 align="center">Hi 👋, I'm Julia 🍂 Miroshnichenko</h1>***
-***<h3 align="center">A passionate Frontend Developer from Moscow</h3>***
+<!-- ***<h3 align="center">A passionate Frontend Developer from Moscow</h3>*** -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=500&center=true&vCenter=true&random=false&width=435&lines=A+passionate+Frontend++Developer;Web+Developer+from+Moscow;+%E2%80%A2+React+Frontend+Developer;%E2%80%A2+React+Js+Developer+;%E2%80%A2+Web+Js+Developer)](https://git.io/typing-svg)
 
 <img align="right" alt="Coding" width="400" style="box-shadow: 3px 3px 3px gray;" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 
