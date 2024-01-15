@@ -141,7 +141,7 @@
   </a>  -->
 
 
-![BACKEND(minimum experience):](https://img.shields.io/badge/BACKEND(minimum):-7a058a?style=for-the-badge&logo=BACKEND(minimum):&logoColor=white)
+![BACKEND(minimum-experience):](https://img.shields.io/badge/BACKEND(minimum):-7a058a?style=for-the-badge&logo=BACKEND(minimum):&logoColor=white)
 
 ![RestAPI](https://img.shields.io/badge/RestAPI-005571?style=for-the-badge&logo=restapi)
 ![Rapid-API](https://img.shields.io/badge/Rapid--Api-000000?style=for-the-badge&logo=react)
