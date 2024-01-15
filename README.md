@@ -79,7 +79,6 @@
 ![Seo-optimization](https://img.shields.io/badge/Seo-optimization%23217346.svg?style=for-the-badge&logo=Seo-optimization&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Deploy](https://img.shields.io/badge/Deploy-CA4245?style=for-the-badge&logo=deploy&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ---
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
