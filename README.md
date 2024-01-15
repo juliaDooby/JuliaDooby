@@ -81,7 +81,6 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Deploy](https://img.shields.io/badge/Deploy-CA4245?style=for-the-badge&logo=deploy&logoColor=white)
 
----
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Next Router](https://img.shields.io/badge/Next_Router-purple?style=for-the-badge&logo=next-router&logoColor=white)
 ![Clerk](https://img.shields.io/badge/Clerk-1b80f3?style=for-the-badge&logo=clerk&logoColor=white)
@@ -90,7 +89,6 @@
 ![Webpack](https://img.shields.io/badge/webpack-%231572B6.svg?style=for-the-badge&logo=webpack&logoColor=white)
 
 ---
-
 <!--   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a> 
@@ -138,8 +136,6 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>  -->
-
-
 ![BACKEND(minimum):](https://img.shields.io/badge/BACKEND(minimum):-7a058a?style=for-the-badge&logo=BACKEND(minimum):&logoColor=white)
 
 ![RestAPI](https://img.shields.io/badge/RestAPI-005571?style=for-the-badge&logo=restapi)
@@ -148,7 +144,6 @@
 ![Mongodb](https://img.shields.io/badge/Mongodb-0cc227?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-c20a1f?style=for-the-badge&logo=mongoose&logoColor=white)
 
----
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -160,7 +155,6 @@
 
 ---
  ![Testing:](https://img.shields.io/badge/Testing:-7a058a?style=for-the-badge&logo=Testing:&logoColor=white)
-
  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
  
   </p>
