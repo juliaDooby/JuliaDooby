@@ -168,6 +168,8 @@
 
 ![snake gif](https://github.com/juliaDooby/juliaDooby/blob/output/github-contribution-grid-snake.svg)
 
-<img align="center" alt="Coding" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" style="box-shadow: 3px 3px 3px gray; padding-bottom:34%;position:relative;" src="https://giphy.com/embed/tJDz8mPYyUJZ1Pg9fA"></img>
+<img align="center" alt="Coding" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" style="box-shadow: 3px 3px 3px gray; padding-bottom:34%;position:relative;" src="https://giphy.com/gifs/dbsppro-dbsp-be-a-peer-lets-code-better-world-tJDz8mPYyUJZ1Pg9fA">
+
+<img align="center" div style="width:100%;height:0;padding-bottom:34%;position:relative;"><iframe src="https://giphy.com/embed/tJDz8mPYyUJZ1Pg9fA" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dbsppro-dbsp-be-a-peer-lets-code-better-world-tJDz8mPYyUJZ1Pg9fA">test</a></p>
 
 <div align="center"><img src="https://cdnb.artstation.com/p/assets/images/images/038/044/655/original/pixel-jeff-alley.gif?1622025440" width="45%"></img></div>
