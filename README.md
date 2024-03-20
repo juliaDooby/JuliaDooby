@@ -153,6 +153,16 @@
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ---
+<div class="eyes-1"></div>
+<div class="eyes-2"></div>
+<div class="eyes-3"></div>
+<div class="eyes-4"></div>
+<div class="eyes-5"></div>
+<div class="eyes-6"></div>
+<div class="eyes-7"></div>
+<div class="eyes-8"></div>
+<div class="eyes-9"></div>
+<div class="eyes-10"></div>
  ![Testing:](https://img.shields.io/badge/Testing:-7a058a?style=for-the-badge&logo=Testing:&logoColor=white)
  
  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
