@@ -153,6 +153,9 @@
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ---
+<div align="center"><img src="https://cdnb.artstation.com/p/assets/images/images/038/044/655/original/pixel-jeff-alley.gif?1622025440" width="45%"></img></div>
+
+---
 <div class="eyes-1"></div>
 <div class="eyes-2"></div>
 <div class="eyes-3"></div>
