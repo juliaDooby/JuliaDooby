@@ -34,8 +34,8 @@
 <h3 Connect with Me :</h3>
   
 <img src="" title="linkedin" alt="" width="40" height="40"/>&nbsp; 
-<img src="" title="" alt="" width="40" height="40"/>&nbsp; 
-<img src="" title="" alt="" width="40" height="40"/>&nbsp; 
+<img src="" title="gmail" alt="" width="40" height="40"/>&nbsp; 
+<img src="" title="portfolio" alt="" width="40" height="40"/>&nbsp; 
 
 <h3 align="left">Projects :</h3>
 
