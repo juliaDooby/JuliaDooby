@@ -33,7 +33,7 @@
 </p> -->
 <h3 Connect with me:</h3>
   
-<img src="" title="" alt="" width="40" height="40"/>&nbsp; 
+<img src="" title="linkedin" alt="" width="40" height="40"/>&nbsp; 
 <img src="" title="" alt="" width="40" height="40"/>&nbsp; 
 <img src="" title="" alt="" width="40" height="40"/>&nbsp; 
 
@@ -75,18 +75,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/reactrouter/reactrouter-original.svg" title="react-router" alt="react-router" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mobx/mobx-original.svg" title="MobX" alt="MobX" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain.svg" title="Axios" alt="Axios" width="40" height="40"/>&nbsp;
-  React Native 
-  Bootstrap 
-  bootstrap-grid 
-  <img src="" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  UIKit 
-  Tailwind SS, 
-  GSAP 
-  BEM 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
+  <img src="" title="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/scss/scss-original.svg" title="SCSS" alt="SCSS" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="40" height="40"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/scss/scss-original.svg" title="SCSS" alt="SCSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" title="ESLint" alt="ESLint" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp; 
@@ -106,7 +101,11 @@
 ![Redux Toolkit](https://img.shields.io/badge/redux-Toolkit-%12717224.svg?style=for-the-badge&logo=redux-toolkit&logoColor=white)
 ![Redux-Saga](https://a11ybadges.com/badge?logo=reduxsaga) 
 ![React-router-dom](https://a11ybadges.com/badge?logo=react-router-dom) 
+![BEM](https://img.shields.io/badge/BEM-%23F05033.svg?style=for-the-badge&logo=BEM&logoColor=white)
 ![Styled-components](https://img.shields.io/badge/styled-components-%23F05033.svg?style=for-the-badge&logo=styled-components&logoColor=white)
+![Bootstrap-grid](https://img.shields.io/badge/Bootstrap-grid-hotpink.svg?style=for-the-badge&logo=Bootstrap-grid&logoColor=white)
+![UIKit](https://img.shields.io/badge/UIKit-hotpink.svg?style=for-the-badge&logo=UIKit&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-hotpink.svg?style=for-the-badge&logo=GSAP&logoColor=white)   
 ![Rest API](https://img.shields.io/badge/rest_api-%238511FA.svg?style=for-the-badge&logo=rest_api&logoColor=white)
 ![Websockets](https://img.shields.io/badge/websockets-%238511FA.svg?style=for-the-badge&logo=websockets&logoColor=white)
 ![SOLID](https://img.shields.io/badge/SOLID-hotpink.svg?style=for-the-badge&logo=SOLID&logoColor=white)
@@ -115,7 +114,9 @@
 ![Kanban](https://img.shields.io/badge/Kanban-hotpink.svg?style=for-the-badge&logo=Kanban&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI/CD-hotpink.svg?style=for-the-badge&logo=CI/CD&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-hotpink.svg?style=for-the-badge&logo=JWT&logoColor=white)
-
+![React Native](https://img.shields.io/badge/React_Native-hotpink.svg?style=for-the-badge&logo=React_Native&logoColor=white)
+   
+   
 <!-- 
 ![FRONTEND:](https://img.shields.io/badge/FRONTEND:-7a058a?style=for-the-badge&logo=FRONTEND:&logoColor=white)
 
