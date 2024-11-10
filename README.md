@@ -3,7 +3,7 @@
 <!--<div align="center"><img src="https://i.pinimg.com/originals/6b/cd/f2/6bcdf2799bc8300f6684fe9b432c2c5b.gif" width="95%"></img></div>-->
 
 <div align="center"><img src="https://cdnb.artstation.com/p/assets/images/images/031/653/819/original/pixel-jeff-witch.gif?1604239834" width="100%" height="60%"></img></div>
-
+SITE IN WORK !
 ***<h1 align="center" margin-top="-3">Hi 👋, I'm Julia 🍂 Miroshnichenko</h1>***
 <!-- ***<h3 align="center">A passionate Frontend Developer from Moscow</h3>*** -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=500&color=D95507&background=FF000000&center=true&vCenter=true&random=false&width=800&lines=A+passionate+Frontend++Developer;Web+Developer+from+Moscow;+React+Frontend+Developer;React+Js+Developer+;Web+Js+Developer)](https://git.io/typing-svg)
@@ -91,7 +91,7 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp; 
  </div>
 
-<div>
+
 ![ES6+](https://img.shields.io/badge/es6+-%23593d88.svg?style=for-the-badge&logo=es6+&logoColor=white)
 ![Async/Await](https://img.shields.io/badge/es6+-%23593d88.svg?style=for-the-badge&logo=async/await+&logoColor=white)
 ![Redux Toolkit](https://img.shields.io/badge/redux-Toolkit-%12717224.svg?style=for-the-badge&logo=redux-toolkit&logoColor=white)
@@ -101,7 +101,7 @@
 ![Websockets](https://img.shields.io/badge/websockets-%238511FA.svg?style=for-the-badge&logo=websockets&logoColor=white)
 ![SOLID](https://img.shields.io/badge/SOLID-hotpink.svg?style=for-the-badge&logo=SOLID&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-hotpink.svg?style=for-the-badge&logo=OOP&logoColor=white)
-</div> 
+
 
 <!-- 
 ![FRONTEND:](https://img.shields.io/badge/FRONTEND:-7a058a?style=for-the-badge&logo=FRONTEND:&logoColor=white)
