@@ -112,7 +112,7 @@
 ![Airbnb](https://img.shields.io/badge/Airbnb_Style-ff99ff.svg?style=for-the-badge&logo=airbnb-style&logoColor=white)
 ![Styled-components](https://img.shields.io/badge/styled_components-990073.svg?style=for-the-badge&logo=styled-components&logoColor=white)
 
-![Bootstrap-grid](https://img.shields.io/badge/Bootstrap-grid-hotpink.svg?style=for-the-badge&logo=Bootstrap-grid&logoColor=white)
+![Bootstrap-grid](https://img.shields.io/badge/Bootstrap-grid-33cc33.svg?style=for-the-badge&logo=Bootstrap-grid&logoColor=white)
 ![UIKit](https://img.shields.io/badge/UIKit-hotpink.svg?style=for-the-badge&logo=UIKit&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-hotpink.svg?style=for-the-badge&logo=GSAP&logoColor=white)
 ![Rest API](https://img.shields.io/badge/rest_api-4d0000.svg?style=for-the-badge&logo=rest_api&logoColor=white)
