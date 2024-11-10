@@ -60,7 +60,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/reactrouter/reactrouter-original.svg" title="react-router" alt="react-router" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mobx/mobx-original.svg" title="MobX" alt="MobX" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain.svg" title="Axios" alt="Axios" width="40" height="40"/>&nbsp;
-  UI/Unit test 
+
   Scrum  
   Kanban 
   React Native 
@@ -93,7 +93,7 @@
 
 
 ![ES6+](https://img.shields.io/badge/es6+-%23593d88.svg?style=for-the-badge&logo=es6+&logoColor=white)
-![Async/Await](https://img.shields.io/badge/es6+-%23593d88.svg?style=for-the-badge&logo=async/await+&logoColor=white)
+![Async/Await](https://img.shields.io/badge/async/await+-%23593d88.svg?style=for-the-badge&logo=async/await+&logoColor=white)
 ![Redux Toolkit](https://img.shields.io/badge/redux-Toolkit-%12717224.svg?style=for-the-badge&logo=redux-toolkit&logoColor=white)
 ![Redux-Saga](https://a11ybadges.com/badge?logo=reduxsaga) 
 ![React-router-dom](https://a11ybadges.com/badge?logo=react-router-dom) 
@@ -101,6 +101,8 @@
 ![Websockets](https://img.shields.io/badge/websockets-%238511FA.svg?style=for-the-badge&logo=websockets&logoColor=white)
 ![SOLID](https://img.shields.io/badge/SOLID-hotpink.svg?style=for-the-badge&logo=SOLID&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-hotpink.svg?style=for-the-badge&logo=OOP&logoColor=white)
+![UI/Unit test](https://img.shields.io/badge/UI/Unit_test-hotpink.svg?style=for-the-badge&logo=UI/Unit_test&logoColor=white)
+   
 
 
 <!-- 
