@@ -106,7 +106,7 @@
 ![ES6+](https://img.shields.io/badge/es6+-ffff00.svg?style=for-the-badge&logo=es6+&logoColor=white)
 ![Async/Await](https://img.shields.io/badge/async/await-004d00.svg?style=for-the-badge&logo=async/await&logoColor=white)
 ![Redux Toolkit](https://img.shields.io/badge/redux-Toolkit-bf80ff.svg?style=for-the-badge&logo=redux-toolkit&logoColor=white)
-![Redux-Saga](https://img.shields.io/badge/Redux-Saga-cc0000.svg?style=for-the-badge&logo=redux-saga&logoColor=white)
+![/-Saga](https://img.shields.io/badge//-Saga-cc0000.svg?style=for-the-badge&logo=/-saga&logoColor=white)
 ![React-Router-Dom](https://img.shields.io/badge/React_Router_Dom-800000.svg?style=for-the-badge&logo=react-router-dom&logoColor=white)
 ![BEM](https://img.shields.io/badge/BEM-993300.svg?style=for-the-badge&logo=BEM&logoColor=white)
 ![Airbnb](https://img.shields.io/badge/Airbnb_Style-ff99ff.svg?style=for-the-badge&logo=airbnb-style&logoColor=white)
