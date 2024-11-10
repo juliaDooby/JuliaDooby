@@ -31,8 +31,19 @@
 <a href="https://linkedin.com/in/www.linkedin.com/in/juliadooby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/juliadooby" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/juliadooby/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/juliadooby/" height="30" width="40" /></a>
 </p> -->
+<h3 Connect with me:</h3>
+  
+<img src="" title="" alt="" width="40" height="40"/>&nbsp; 
+<img src="" title="" alt="" width="40" height="40"/>&nbsp; 
+<img src="" title="" alt="" width="40" height="40"/>&nbsp; 
 
 <h3 align="left">Projects:</h3>
+
+![]()
+![]()
+![]()
+![]()
+![]()
 <!--
 ![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=Spotify&logoColor=white)
@@ -40,6 +51,10 @@
 ![Full Stack Shopping App](https://img.shields.io/badge/Full_Stack_Shopping_Lamastore-1c48e7.svg?style=for-the-badge&logo=Full_Stack_Shopping_Lamastore&logoColor=white) -->
 
 <h3 align="left">Strong advantages:</h3>
+
+![]()
+![]()
+![]()
 <!--
 ![English.B2.Upper-Intermediate](https://img.shields.io/badge/English.B2.Upper-Intermediate-8a0631?style=for-the-badge&logo=English.B2.Upper-Intermediate&logoColor=white)
 ![Teamwork](https://img.shields.io/badge/Teamwork-8a0631?style=for-the-badge&logo=teamwork&logoColor=white)
@@ -73,19 +88,17 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/scss/scss-original.svg" title="SCSS" alt="SCSS" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" title="ESLint" alt="ESLint" width="40" height="40"/>&nbsp; 
-  Styled-components
-  Figma
-  Backend (minimum): Node.js 
-  Nest.js 
-   
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" title="Nest.js" alt="Nest.js" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="ExpressJS" alt="ExpressJS" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp; 
-   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp; 
-   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp; 
-   <img src="https://github.com/devicons/devicon/blob/master/icons/vite/vite-original.svg" title="Vite" alt="Vite" width="40" height="40"/>&nbsp; 
-   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vite/vite-original.svg" title="Vite" alt="Vite" width="40" height="40"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp; 
  </div>
 
 ![ES6+](https://img.shields.io/badge/es6+-%23593d88.svg?style=for-the-badge&logo=es6+&logoColor=white)
@@ -93,6 +106,7 @@
 ![Redux Toolkit](https://img.shields.io/badge/redux-Toolkit-%12717224.svg?style=for-the-badge&logo=redux-toolkit&logoColor=white)
 ![Redux-Saga](https://a11ybadges.com/badge?logo=reduxsaga) 
 ![React-router-dom](https://a11ybadges.com/badge?logo=react-router-dom) 
+![Styled-components](https://img.shields.io/badge/styled-components-%23F05033.svg?style=for-the-badge&logo=styled-components&logoColor=white)
 ![Rest API](https://img.shields.io/badge/rest_api-%238511FA.svg?style=for-the-badge&logo=rest_api&logoColor=white)
 ![Websockets](https://img.shields.io/badge/websockets-%238511FA.svg?style=for-the-badge&logo=websockets&logoColor=white)
 ![SOLID](https://img.shields.io/badge/SOLID-hotpink.svg?style=for-the-badge&logo=SOLID&logoColor=white)
