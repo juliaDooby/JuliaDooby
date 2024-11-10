@@ -118,11 +118,11 @@
 ![Rest API](https://img.shields.io/badge/rest_api-4dd2ff.svg?style=for-the-badge&logo=rest_api&logoColor=white)
 ![Websockets](https://img.shields.io/badge/websockets-b366ff.svg?style=for-the-badge&logo=websockets&logoColor=white)
 ![SOLID](https://img.shields.io/badge/SOLID-66cc00.svg?style=for-the-badge&logo=wsolid&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-hotpink.svg?style=for-the-badge&logo=OOP&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-hotpink.svg?style=for-the-badge&logo=Scrum&logoColor=white)
-![Kanban](https://img.shields.io/badge/Kanban-hotpink.svg?style=for-the-badge&logo=Kanban&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-hotpink.svg?style=for-the-badge&logo=CI/CD&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-hotpink.svg?style=for-the-badge&logo=React_Native&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-0047b3.svg?style=for-the-badge&logo=OOP&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-bfff80.svg?style=for-the-badge&logo=Scrum&logoColor=white)
+![Kanban](https://img.shields.io/badge/Kanban-ff9933.svg?style=for-the-badge&logo=Kanban&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-29a3a3.svg?style=for-the-badge&logo=CI/CD&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-00ccff.svg?style=for-the-badge&logo=React_Native&logoColor=white)
 </div>
    
 <!-- ![JWT](https://img.shields.io/badge/JWT-hotpink.svg?style=for-the-badge&logo=JWT&logoColor=white)
