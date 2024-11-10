@@ -33,19 +33,19 @@
 </p> -->
 
 <h3 align="left">Projects:</h3>
-
+<!--
 ![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=Spotify&logoColor=white)
 ![Restaurant Food Delivery App](https://img.shields.io/badge/Restaurant_Food_Delivery-e72b1c.svg?style=for-the-badge&logo=Restaurant_Food_Delivery&logoColor=white)
-![Full Stack Shopping App](https://img.shields.io/badge/Full_Stack_Shopping_Lamastore-1c48e7.svg?style=for-the-badge&logo=Full_Stack_Shopping_Lamastore&logoColor=white)
+![Full Stack Shopping App](https://img.shields.io/badge/Full_Stack_Shopping_Lamastore-1c48e7.svg?style=for-the-badge&logo=Full_Stack_Shopping_Lamastore&logoColor=white) -->
 
 <h3 align="left">Strong advantages:</h3>
-
+<!--
 ![English.B2.Upper-Intermediate](https://img.shields.io/badge/English.B2.Upper-Intermediate-8a0631?style=for-the-badge&logo=English.B2.Upper-Intermediate&logoColor=white)
 ![Teamwork](https://img.shields.io/badge/Teamwork-8a0631?style=for-the-badge&logo=teamwork&logoColor=white)
 ![Self-dependence](https://img.shields.io/badge/Self-dependence-8a0631?style=for-the-badge&logo=self-dependence&logoColor=white)
 ![Airbnb](https://img.shields.io/badge/Airbnb-%23ff5a5f.svg?style=for-the-badge&logo=Airbnb&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)  -->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -55,21 +55,17 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title=" Redux" alt=" Redux" width="40" height="40"/>&nbsp;
-    
+      <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="40" height="40"/>&nbsp;
   <!--
   <img src="" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   <img src=""  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   </div>
 <!-- 
 ![ES6+](https://img.shields.io/badge/es6+-%23593d88.svg?style=for-the-badge&logo=es6+&logoColor=white)
 ![Async/Await](https://img.shields.io/badge/es6+-%23593d88.svg?style=for-the-badge&logo=async/await+&logoColor=white)
-  , 
- , 
-  Redux Toolkit 
-  Redux-Saga
-  Next.js 
+![Redux Toolkit](https://img.shields.io/badge/redux-Toolkit-%12717224.svg?style=for-the-badge&logo=redux-Toolkit&logoColor=white)
+![Redux-Saga](https://a11ybadges.com/badge?logo=reduxsaga)
   jQuery 
   react-router 
   react-router-dom 
