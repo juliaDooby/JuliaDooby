@@ -54,10 +54,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title=" Redux" alt=" Redux" width="40" height="40"/>&nbsp;
+    
   <!--
-  <img src="" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
   <img src="" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
   <img src="" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   <img src=""  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -66,47 +66,46 @@
 ![ES6+](https://img.shields.io/badge/es6+-%23593d88.svg?style=for-the-badge&logo=es6+&logoColor=white)
 ![Async/Await](https://img.shields.io/badge/es6+-%23593d88.svg?style=for-the-badge&logo=async/await+&logoColor=white)
   , 
-  Redux, 
-  Redux Toolkit, 
-  Redux-Saga, 
-  Next.js, 
-  jQuery, 
-  react-router, 
-  react-router-dom, 
-  MobX, 
-  Axios, 
-  Rest API, 
-  Websockets, 
-  Git, 
-SOLID, 
-  OOP, 
-  UI/Unit test, 
-  Scrum,  
-  Kanban, 
-  React Native, 
-  Bootstrap, 
-  bootstrap-grid, 
-  Material-UI, 
-  UIKit, 
-  Tailwind 
-  CSS, 
-  GSAP, 
-  BEM, 
-  HTML5, 
-  CSS3, 
-  SCSS, 
-  ESLint, 
-  Webpack, 
-  Styled-components,
+ , 
+  Redux Toolkit 
+  Redux-Saga
+  Next.js 
+  jQuery 
+  react-router 
+  react-router-dom 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mobx/mobx-original.svg" title="MobX " alt="MobX" width="40" height="40"/>&nbsp;
+  Axios 
+  Rest API 
+  Websockets 
+  Git 
+SOLID 
+  OOP 
+  UI/Unit test 
+  Scrum  
+  Kanban 
+  React Native 
+  Bootstrap 
+  bootstrap-grid 
+  Material-UI 
+  UIKit 
+  Tailwind SS, 
+  GSAP 
+  BEM 
+  HTML5 
+  CSS3 
+  SCSS 
+  ESLint 
+  Webpack 
+  Styled-components
   Figma
-Backend (minimum): Node.js, 
-  Nest.js, 
-  ExpressJS, 
-  Docker, 
-  JWT, 
-  CI/CD, 
-  MongoDB, 
-  Postman, 
+Backend (minimum): Node.js 
+  Nest.js 
+  ExpressJS 
+  Docker 
+  JWT 
+  CI/CD 
+  MongoDB 
+  Postman 
   PostgreSQL  -->
 
 <!-- 
