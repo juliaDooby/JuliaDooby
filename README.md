@@ -50,11 +50,12 @@
 ![Restaurant Food Delivery App](https://img.shields.io/badge/Restaurant_Food_Delivery-e72b1c.svg?style=for-the-badge&logo=Restaurant_Food_Delivery&logoColor=white)
 ![Full Stack Shopping App](https://img.shields.io/badge/Full_Stack_Shopping_Lamastore-1c48e7.svg?style=for-the-badge&logo=Full_Stack_Shopping_Lamastore&logoColor=white) -->
 
-<h3 align="left">Strong advantages :</h3>
+<!-- <h3 align="left">Strong advantages :</h3>
 
 ![]()
 ![]()
-![]()
+![]() 
+-->
 <!--
 ![English.B2.Upper-Intermediate](https://img.shields.io/badge/English.B2.Upper-Intermediate-8a0631?style=for-the-badge&logo=English.B2.Upper-Intermediate&logoColor=white)
 ![Teamwork](https://img.shields.io/badge/Teamwork-8a0631?style=for-the-badge&logo=teamwork&logoColor=white)
