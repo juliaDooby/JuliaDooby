@@ -10,6 +10,7 @@
 
 <img align="right" alt="Coding" width="400" height="300" style="box-shadow: 3px 3px 3px gray;" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 
+<h3 align="left">About Me:</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juliadooby&label=Profile%20views&color=0e75b6&style=flat" alt="juliadooby" /> </p>
 
 - 🔭 I’m currently working on **React E-Commerce Shopping App**
