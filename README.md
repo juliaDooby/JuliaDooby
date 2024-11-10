@@ -114,9 +114,9 @@
 
 ![Bootstrap-grid](https://img.shields.io/badge/Bootstrap-grid-1aff66.svg?style=for-the-badge&logo=Bootstrap-grid&logoColor=white)
 ![UIKit](https://img.shields.io/badge/UIKit-1ac6ff.svg?style=for-the-badge&logo=UIKit&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-hotpink.svg?style=for-the-badge&logo=GSAP&logoColor=white)
-![Rest API](https://img.shields.io/badge/rest_api-4d0000.svg?style=for-the-badge&logo=rest_api&logoColor=white)
-![Websockets](https://img.shields.io/badge/websockets-520066.svg?style=for-the-badge&logo=websockets&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-b3ff1a.svg?style=for-the-badge&logo=GSAP&logoColor=white)
+![Rest API](https://img.shields.io/badge/rest_api-4dd2ff.svg?style=for-the-badge&logo=rest_api&logoColor=white)
+![Websockets](https://img.shields.io/badge/websockets-b366ff.svg?style=for-the-badge&logo=websockets&logoColor=white)
 ![SOLID](https://img.shields.io/badge/SOLID-66cc00.svg?style=for-the-badge&logo=wsolid&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-hotpink.svg?style=for-the-badge&logo=OOP&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-hotpink.svg?style=for-the-badge&logo=Scrum&logoColor=white)
