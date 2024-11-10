@@ -17,9 +17,9 @@
 
 - 🌱 I’m currently learning **React Native, Node.js**
 
-- 👨‍💻 All of my projects are available at [juliaDooby Portfolio](  https://juliadooby.github.io/Portfolio/   ),
+- 👨‍💻 All of my projects are available at ..,
 & my Github
-
+  <!-- [juliaDooby Portfolio](  https://juliadooby.github.io/Portfolio/   ) -->
 - 💬 Ask me about **Javascript, React**
 
 - 📫 How to reach me **juliadooby@yandex.ru, (tg) @juliaDooby**
@@ -79,10 +79,7 @@
   Nest.js 
   ExpressJS 
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp; 
-  JWT 
-  CI/CD 
-  MongoDB 
-  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp; 
    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp; 
    <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp; 
@@ -102,9 +99,9 @@
 ![OOP](https://img.shields.io/badge/OOP-hotpink.svg?style=for-the-badge&logo=OOP&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-hotpink.svg?style=for-the-badge&logo=Scrum&logoColor=white)
 ![Kanban](https://img.shields.io/badge/Kanban-hotpink.svg?style=for-the-badge&logo=Kanban&logoColor=white)
-
-   
-
+![CI/CD](https://img.shields.io/badge/CI/CD-hotpink.svg?style=for-the-badge&logo=CI/CD&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-hotpink.svg?style=for-the-badge&logo=JWT&logoColor=white)
+      
 
 <!-- 
 ![FRONTEND:](https://img.shields.io/badge/FRONTEND:-7a058a?style=for-the-badge&logo=FRONTEND:&logoColor=white)
