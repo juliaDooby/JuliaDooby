@@ -2,7 +2,7 @@
 <!--<div align="center"><img src="https://i.pinimg.com/564x/c0/0b/85/c00b8526d4324b4c12f85d131c751a07.jpg" height="30%" width="80%"></img></div>-->
 <!--<div align="center"><img src="https://i.pinimg.com/originals/6b/cd/f2/6bcdf2799bc8300f6684fe9b432c2c5b.gif" width="95%"></img></div>-->
 
-<div align="center"><img src="https://cdnb.artstation.com/p/assets/images/images/031/653/819/original/pixel-jeff-witch.gif?1604239834" width="100%" height="60%"></img></div>
+<div ><img src="https://cdnb.artstation.com/p/assets/images/images/031/653/819/original/pixel-jeff-witch.gif?1604239834" width="100%" height="60%"></img></div>
 
 ***<h1 align="center" margin-top="-3">Hi 👋, I'm Julia 🍂 Miroshnichenko</h1>***
 <!-- ***<h3 align="center">A passionate Frontend Developer from Moscow</h3>*** -->
@@ -65,7 +65,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
  
-<div>
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
@@ -78,7 +78,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
    </div>
-   <div>
+   <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
