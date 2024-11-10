@@ -59,11 +59,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" title=" jQuery" alt="jQuery" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/reactrouter/reactrouter-original-wordmark.svg" title="react-router" alt="react-router" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mobx/mobx-original.svg" title="MobX" alt="MobX" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain-wordmark.svg" title="Axios" alt="Axios" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain-wordmark.svg" title="Axios" alt="Axios" width="40" height="40"/>&nbsp;
   
-  Rest API 
-  Websockets 
-  Git 
+   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp; 
+   <img src="https://github.com/devicons/devicon/blob/master/icons/vite/vite-original-wordmark.svg" title="Vite" alt="Vite" width="40" height="40"/>&nbsp; 
+   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp; 
+   
 SOLID 
   OOP 
   UI/Unit test 
@@ -81,7 +82,7 @@ SOLID
  <img src=""  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   SCSS 
   ESLint 
-  Webpack 
+ 
   Styled-components
   Figma
 Backend (minimum): Node.js 
@@ -101,6 +102,8 @@ Backend (minimum): Node.js
 ![Redux Toolkit](https://img.shields.io/badge/redux-Toolkit-%12717224.svg?style=for-the-badge&logo=redux-toolkit&logoColor=white)
 ![Redux-Saga](https://a11ybadges.com/badge?logo=reduxsaga) 
 ![React-router-dom](https://a11ybadges.com/badge?logo=react-router-dom) 
+![Rest API](https://img.shields.io/badge/rest_api-%238511FA.svg?style=for-the-badge&logo=rest_api&logoColor=white)
+![Websockets](https://img.shields.io/badge/websockets-%238511FA.svg?style=for-the-badge&logo=websockets&logoColor=white)
   </div> 
   -->
 
