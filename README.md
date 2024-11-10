@@ -67,7 +67,7 @@
  
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50" style="border-radius:50%"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" wwidth="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title=" Redux" alt=" Redux" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="50" height="50"/>&nbsp;
@@ -98,7 +98,7 @@
  </div>
 
 ![ES6+](https://img.shields.io/badge/es6+-ffff00.svg?style=for-the-badge&logo=es6+&logoColor=white)
-![Async/Await](https://img.shields.io/badge/async/await+-%23593d88.svg?style=for-the-badge&logo=async/await+&logoColor=white)
+![Async/Await](https://img.shields.io/badge/async/await+-004d00.svg?style=for-the-badge&logo=async/await+&logoColor=white)
 ![Redux Toolkit](https://img.shields.io/badge/redux-Toolkit-%12717224.svg?style=for-the-badge&logo=redux-toolkit&logoColor=white)
 ![Redux-Saga](https://a11ybadges.com/badge?logo=reduxsaga) 
 ![React-router-dom](https://a11ybadges.com/badge?logo=react-router-dom) 
