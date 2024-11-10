@@ -46,7 +46,7 @@
 ![Self-dependence](https://img.shields.io/badge/Self-dependence-8a0631?style=for-the-badge&logo=self-dependence&logoColor=white)
 ![Airbnb](https://img.shields.io/badge/Airbnb-%23ff5a5f.svg?style=for-the-badge&logo=Airbnb&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)  -->
-
+<p>&nbsp;<img align="center" style="box-shadow: 3px 3px 3px gray;" src="https://github-readme-stats.vercel.app/api?username=juliadooby&show_icons=true&locale=en" alt="juliadooby" /></p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
  
