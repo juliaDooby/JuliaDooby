@@ -97,6 +97,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp; 
  </div>
 
+<h3 align="left">Key Skills:</h3>
+<p align="left">  
+<div align="center">
+  
 ![ES6+](https://img.shields.io/badge/es6+-ffff00.svg?style=for-the-badge&logo=es6+&logoColor=white)
 ![Async/Await](https://img.shields.io/badge/async/await+-004d00.svg?style=for-the-badge&logo=async/await&logoColor=white)
 ![Redux Toolkit](https://img.shields.io/badge/redux-Toolkit-bf80ff.svg?style=for-the-badge&logo=redux-toolkit&logoColor=white)
@@ -117,7 +121,7 @@
 ![CI/CD](https://img.shields.io/badge/CI/CD-hotpink.svg?style=for-the-badge&logo=CI/CD&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-hotpink.svg?style=for-the-badge&logo=JWT&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-hotpink.svg?style=for-the-badge&logo=React_Native&logoColor=white)
-   
+</div>
    
 <!-- 
 ![FRONTEND:](https://img.shields.io/badge/FRONTEND:-7a058a?style=for-the-badge&logo=FRONTEND:&logoColor=white)
