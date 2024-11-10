@@ -246,9 +246,10 @@
  ![Testing:](https://img.shields.io/badge/Testing:-7a058a?style=for-the-badge&logo=Testing:&logoColor=white)
  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
  -->
- ---
  
 <h3 align="left">My Stats :</h3>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=juliaDooby&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <p><img align="left" style="box-shadow: 3px 3px 3px gray;" src="https://github-readme-stats.vercel.app/api/top-langs?username=juliadooby&show_icons=true&locale=en&layout=compact" alt="juliadooby" /></p>
 
