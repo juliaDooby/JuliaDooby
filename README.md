@@ -36,7 +36,7 @@
 ![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=Spotify&logoColor=white)
 ![Restaurant Food Delivery App](https://img.shields.io/badge/Restaurant_Food_Delivery-e72b1c.svg?style=for-the-badge&logo=Restaurant_Food_Delivery&logoColor=white)
-![Full Stack Shopping App](https://img.shields.io/badge/Full_Stack_Shopping_Lamastore-1cade7.svg?style=for-the-badge&logo=Full_Stack_Shopping_Lamastore&logoColor=white)
+![Full Stack Shopping App](https://img.shields.io/badge/Full_Stack_Shopping_Lamastore-1c48e7.svg?style=for-the-badge&logo=Full_Stack_Shopping_Lamastore&logoColor=white)
 
 <h3 align="left">Strong advantages:</h3>
 
