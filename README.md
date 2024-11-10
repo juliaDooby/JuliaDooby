@@ -74,7 +74,7 @@ Backend (minimum): Node.js, Nest.js, ExpressJS, Docker, JWT, CI/CD, MongoDB, Pos
 
 
 
-
+<!-- 
 ![FRONTEND:](https://img.shields.io/badge/FRONTEND:-7a058a?style=for-the-badge&logo=FRONTEND:&logoColor=white)
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -162,7 +162,8 @@ Backend (minimum): Node.js, Nest.js, ExpressJS, Docker, JWT, CI/CD, MongoDB, Pos
   
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a>  -->
+  </a>  --> 
+  <!--
 ![BACKEND(minimum):](https://img.shields.io/badge/BACKEND(minimum):-7a058a?style=for-the-badge&logo=BACKEND(minimum):&logoColor=white)
 
 ![RestAPI](https://img.shields.io/badge/RestAPI-005571?style=for-the-badge&logo=restapi)
@@ -178,7 +179,7 @@ Backend (minimum): Node.js, Nest.js, ExpressJS, Docker, JWT, CI/CD, MongoDB, Pos
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
+ -->
 ---
 <div class="eyes-1"></div>
 <div class="eyes-2"></div>
