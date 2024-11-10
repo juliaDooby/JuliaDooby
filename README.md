@@ -11,7 +11,7 @@
 <img align="right" alt="Coding" width="400" height="300" style="box-shadow: 3px 3px 3px gray;" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juliadooby&label=Profile%20views&color=0e75b6&style=flat" alt="juliadooby" /> </p>
-<h3 align="left">About Me:</h3>
+<h3 align="left">About Me :</h3>
 
 - 🔭 I’m currently working on **React E-Commerce Shopping App**
 
@@ -31,13 +31,13 @@
 <a href="https://linkedin.com/in/www.linkedin.com/in/juliadooby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/juliadooby" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/juliadooby/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/juliadooby/" height="30" width="40" /></a>
 </p> -->
-<h3 Connect with me:</h3>
+<h3 Connect with Me :</h3>
   
 <img src="" title="linkedin" alt="" width="40" height="40"/>&nbsp; 
 <img src="" title="" alt="" width="40" height="40"/>&nbsp; 
 <img src="" title="" alt="" width="40" height="40"/>&nbsp; 
 
-<h3 align="left">Projects:</h3>
+<h3 align="left">Projects :</h3>
 
 ![]()
 ![]()
@@ -50,7 +50,7 @@
 ![Restaurant Food Delivery App](https://img.shields.io/badge/Restaurant_Food_Delivery-e72b1c.svg?style=for-the-badge&logo=Restaurant_Food_Delivery&logoColor=white)
 ![Full Stack Shopping App](https://img.shields.io/badge/Full_Stack_Shopping_Lamastore-1c48e7.svg?style=for-the-badge&logo=Full_Stack_Shopping_Lamastore&logoColor=white) -->
 
-<h3 align="left">Strong advantages:</h3>
+<h3 align="left">Strong advantages :</h3>
 
 ![]()
 ![]()
@@ -62,7 +62,7 @@
 ![Airbnb](https://img.shields.io/badge/Airbnb-%23ff5a5f.svg?style=for-the-badge&logo=Airbnb&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)  -->
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools :</h3>
 <p align="left"> 
  
 <div align="center">
@@ -99,7 +99,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp; 
  </div>
 
-<h3 align="left">Key Skills:</h3>
+<h3 align="left">Key Skills :</h3>
 <p align="left">  
 <!-- <div align="center"> -->
   
