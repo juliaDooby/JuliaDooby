@@ -31,14 +31,14 @@
 <a href="https://linkedin.com/in/www.linkedin.com/in/juliadooby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/juliadooby" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/juliadooby/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/juliadooby/" height="30" width="40" /></a>
 </p> -->
-
+---
 <h3 align="left">Projects:</h3>
 <!--
 ![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=Spotify&logoColor=white)
 ![Restaurant Food Delivery App](https://img.shields.io/badge/Restaurant_Food_Delivery-e72b1c.svg?style=for-the-badge&logo=Restaurant_Food_Delivery&logoColor=white)
 ![Full Stack Shopping App](https://img.shields.io/badge/Full_Stack_Shopping_Lamastore-1c48e7.svg?style=for-the-badge&logo=Full_Stack_Shopping_Lamastore&logoColor=white) -->
-
+---
 <h3 align="left">Strong advantages:</h3>
 <!--
 ![English.B2.Upper-Intermediate](https://img.shields.io/badge/English.B2.Upper-Intermediate-8a0631?style=for-the-badge&logo=English.B2.Upper-Intermediate&logoColor=white)
@@ -46,7 +46,7 @@
 ![Self-dependence](https://img.shields.io/badge/Self-dependence-8a0631?style=for-the-badge&logo=self-dependence&logoColor=white)
 ![Airbnb](https://img.shields.io/badge/Airbnb-%23ff5a5f.svg?style=for-the-badge&logo=Airbnb&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)  -->
-<p>&nbsp;<img align="center" style="box-shadow: 3px 3px 3px gray;" src="https://github-readme-stats.vercel.app/api?username=juliadooby&show_icons=true&locale=en" alt="juliadooby" /></p>
+---
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
  
@@ -88,7 +88,7 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp; 
  </div>
 
-
+---
 ![ES6+](https://img.shields.io/badge/es6+-%23593d88.svg?style=for-the-badge&logo=es6+&logoColor=white)
 ![Async/Await](https://img.shields.io/badge/async/await+-%23593d88.svg?style=for-the-badge&logo=async/await+&logoColor=white)
 ![Redux Toolkit](https://img.shields.io/badge/redux-Toolkit-%12717224.svg?style=for-the-badge&logo=redux-toolkit&logoColor=white)
@@ -102,7 +102,8 @@
 ![Kanban](https://img.shields.io/badge/Kanban-hotpink.svg?style=for-the-badge&logo=Kanban&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI/CD-hotpink.svg?style=for-the-badge&logo=CI/CD&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-hotpink.svg?style=for-the-badge&logo=JWT&logoColor=white)
-      
+
+---    
 
 <!-- 
 ![FRONTEND:](https://img.shields.io/badge/FRONTEND:-7a058a?style=for-the-badge&logo=FRONTEND:&logoColor=white)
