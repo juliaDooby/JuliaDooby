@@ -98,9 +98,10 @@
  </div>
 
 ![ES6+](https://img.shields.io/badge/es6+-ffff00.svg?style=for-the-badge&logo=es6+&logoColor=white)
-![Async/Await](https://img.shields.io/badge/async/await+-004d00.svg?style=for-the-badge&logo=async/await+&logoColor=white)
-![Redux Toolkit](https://img.shields.io/badge/redux-Toolkit-%12717224.svg?style=for-the-badge&logo=redux-toolkit&logoColor=white)
-![Redux-Saga](https://a11ybadges.com/badge?logo=reduxsaga) 
+![Async/Await](https://img.shields.io/badge/async/await+-004d00.svg?style=for-the-badge&logo=async/await&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/redux-Toolkit-bf80ff.svg?style=for-the-badge&logo=redux-toolkit&logoColor=white)
+![Redux-Saga](https://img.shields.io/badge/Redux-Saga-cc0000.svg?style=for-the-badge&logo=redux-saga&logoColor=white)
+
 ![React-router-dom](https://a11ybadges.com/badge?logo=react-router-dom) 
 ![BEM](https://img.shields.io/badge/BEM-%23F05033.svg?style=for-the-badge&logo=BEM&logoColor=white)
 ![Styled-components](https://img.shields.io/badge/styled-components-%23F05033.svg?style=for-the-badge&logo=styled-components&logoColor=white)
