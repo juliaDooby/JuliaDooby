@@ -60,9 +60,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/reactrouter/reactrouter-original.svg" title="react-router" alt="react-router" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mobx/mobx-original.svg" title="MobX" alt="MobX" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain.svg" title="Axios" alt="Axios" width="40" height="40"/>&nbsp;
-
-  Scrum  
-  Kanban 
   React Native 
   Bootstrap 
   bootstrap-grid 
@@ -71,10 +68,11 @@
   Tailwind SS, 
   GSAP 
   BEM 
-  <img src="" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
- <img src=""  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  SCSS 
-  <img src=" https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" title="ESLint" alt="ESLint" width="40" height="40"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/scss/scss-original.svg" title="SCSS" alt="SCSS" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="40" height="40"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" title="ESLint" alt="ESLint" width="40" height="40"/>&nbsp; 
   Styled-components
   Figma
   Backend (minimum): Node.js 
@@ -85,7 +83,7 @@
   CI/CD 
   MongoDB 
   Postman 
-  PostgreSQL
+   <img src=" https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp; 
    <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp; 
    <img src="https://github.com/devicons/devicon/blob/master/icons/vite/vite-original.svg" title="Vite" alt="Vite" width="40" height="40"/>&nbsp; 
    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp; 
@@ -101,7 +99,9 @@
 ![Websockets](https://img.shields.io/badge/websockets-%238511FA.svg?style=for-the-badge&logo=websockets&logoColor=white)
 ![SOLID](https://img.shields.io/badge/SOLID-hotpink.svg?style=for-the-badge&logo=SOLID&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-hotpink.svg?style=for-the-badge&logo=OOP&logoColor=white)
-![UI/Unit test](https://img.shields.io/badge/UI/Unit_test-hotpink.svg?style=for-the-badge&logo=UI/Unit_test&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-hotpink.svg?style=for-the-badge&logo=Scrum&logoColor=white)
+![Kanban](https://img.shields.io/badge/Kanban-hotpink.svg?style=for-the-badge&logo=Kanban&logoColor=white)
+
    
 
 
