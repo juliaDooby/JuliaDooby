@@ -102,7 +102,8 @@
 <h3 align="left">Key Skills :</h3>
 <p align="left">  
 <!-- <div align="center"> -->
-  
+<div align="center">
+    
 ![ES6+](https://img.shields.io/badge/es6+-ffff00.svg?style=for-the-badge&logo=es6+&logoColor=white)
 ![Async/Await](https://img.shields.io/badge/async/await-004d00.svg?style=for-the-badge&logo=async/await&logoColor=white)
 ![Redux Toolkit](https://img.shields.io/badge/redux-Toolkit-bf80ff.svg?style=for-the-badge&logo=redux-toolkit&logoColor=white)
@@ -249,10 +250,13 @@
  
 <h3 align="left">My Stats :</h3>
 
+<div align="center">
+  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=juliaDooby&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliaDooby&layout=compact&theme=vision-friendly-dark)](https://github.com/juliaDooby/github-readme-stats)
 
+</div>
 <!--  <p><img align="left" style="box-shadow: 3px 3px 3px gray;" src="https://github-readme-stats.vercel.app/api/top-langs?username=juliadooby&show_icons=true&locale=en&layout=compact" alt="juliadooby" /></p>
 
 <p>&nbsp;<img align="center" style="box-shadow: 3px 3px 3px gray;" src="https://github-readme-stats.vercel.app/api?username=juliadooby&show_icons=true&locale=en" alt="juliadooby" /></p>
