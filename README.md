@@ -251,6 +251,8 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=juliaDooby&theme=dark&background=000000)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliaDooby&layout=compact&theme=vision-friendly-dark)](https://github.com/juliaDooby/github-readme-stats)
+
 <p><img align="left" style="box-shadow: 3px 3px 3px gray;" src="https://github-readme-stats.vercel.app/api/top-langs?username=juliadooby&show_icons=true&locale=en&layout=compact" alt="juliadooby" /></p>
 
 <p>&nbsp;<img align="center" style="box-shadow: 3px 3px 3px gray;" src="https://github-readme-stats.vercel.app/api?username=juliadooby&show_icons=true&locale=en" alt="juliadooby" /></p>
