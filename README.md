@@ -77,7 +77,8 @@
   Figma
   Backend (minimum): Node.js 
   Nest.js 
-  ExpressJS 
+   
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="ExpressJS" alt="ExpressJS" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp; 
