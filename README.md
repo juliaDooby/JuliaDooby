@@ -122,7 +122,7 @@
 ![Scrum](https://img.shields.io/badge/Scrum-bfff80.svg?style=for-the-badge&logo=Scrum&logoColor=white)
 ![Kanban](https://img.shields.io/badge/Kanban-ff9933.svg?style=for-the-badge&logo=Kanban&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI/CD-29a3a3.svg?style=for-the-badge&logo=CI/CD&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-00bfff.svg?style=for-the-badge&logo=React_Native&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-00aaff.svg?style=for-the-badge&logo=React_Native&logoColor=white)
 </div>
    
 <!-- ![JWT](https://img.shields.io/badge/JWT-hotpink.svg?style=for-the-badge&logo=JWT&logoColor=white)
