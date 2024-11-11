@@ -31,7 +31,7 @@
 <a href="https://linkedin.com/in/www.linkedin.com/in/juliadooby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/juliadooby" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/juliadooby/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/juliadooby/" height="30" width="40" /></a>
 </p> -->
-<h3 Connect with Me :</h3>
+<h3 align="left">Connect with Me :</h3>
   
 <img src="" title="linkedin" alt="" width="40" height="40"/>&nbsp; 
 <img src="" title="gmail" alt="" width="40" height="40"/>&nbsp; 
