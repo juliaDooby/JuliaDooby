@@ -55,7 +55,7 @@
     <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white" alt="Threads Badge"/>
   </a>
   <a href="https://github.com/juliaDooby/React-Spotify-platform">
-    <img src="https://img.shields.io/badge/Spotify-ff751a?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge"/>
+    <img src="https://img.shields.io/badge/Spotify-0073e6?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge"/>
   </a>
   <a href="https://juliadooby.github.io/React-food-delivery-app/">
     <img src="https://img.shields.io/badge/Restaurant_Food_Delivery-e60000?style=for-the-badge&logo=restaurant_food_delivery&logoColor=white" alt="restaurant_food_delivery Badge"/>
