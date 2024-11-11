@@ -37,8 +37,11 @@
 <!--   <a href="your-linkedin-URL"> -->
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-<!--   <a href="your-gmail-URL"> -->
+  <a href="https://login.live.com">
     <img src="https://img.shields.io/badge/Gmail-ff751a?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+    <a href="https://passport.yandex.ru/auth">
+    <img src="https://img.shields.io/badge/Yandex-ff751a?style=for-the-badge&logo=yandex&logoColor=white" alt="Gmail Badge"/>
   </a>
 <!--   <a href="https://juliadooby.github.io/Portfolio/"> -->
     <img src="https://img.shields.io/badge/Portfolio-cc0099?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio Badge"/>
@@ -47,11 +50,26 @@
 
 <h3 align="left">Projects :</h3>
 
+<div id="projects">
+  <a href="">
+    <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white" alt="Threads Badge"/>
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/Spotify-ff751a?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge"/>
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/Restaurant_Food_Delivery-cc0099?style=for-the-badge&logo=restaurant_food_delivery&logoColor=white" alt="restaurant_food_delivery Badge"/>
+  </a>
+   <a href="">
+    <img src="https://img.shields.io/badge/Full_Stack_Shopping_Store-cc0099?style=for-the-badge&logo=full_stack_shopping_store&logoColor=white" alt="full_stack_shopping_store Badge"/>
+  </a>
+</div>
+<!--
 ![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=Spotify&logoColor=white)
 ![Restaurant Food Delivery App](https://img.shields.io/badge/Restaurant_Food_Delivery-e72b1c.svg?style=for-the-badge&logo=Restaurant_Food_Delivery&logoColor=white)
 ![Full Stack Shopping App](https://img.shields.io/badge/Full_Stack_Shopping_Lamastore-1c48e7.svg?style=for-the-badge&logo=Full_Stack_Shopping_Lamastore&logoColor=white) 
-
+-->
 <!--
 ![]()
 ![]()
