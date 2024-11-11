@@ -22,7 +22,7 @@
   <!-- [juliaDooby Portfolio](  https://juliadooby.github.io/Portfolio/   ) -->
 - 💬 Ask me about **Javascript, React**
 
-- 📫 How to reach me **juliadooby@yandex.ru, juliadooby@outlook.com, Tgm/WhApp: @juliaDooby**
+- 📫 How to reach me **juliadooby@yandex.ru, juliadooby@outlook.com, Tlgm/WhApp: @juliaDooby**
   
 - 🍎 My strong **key projects (pins) are below under This Profile** 
 
@@ -51,18 +51,24 @@
 <h3 align="left">Projects :</h3>
 
 <div id="projects">
-  <a href="">
+  <a href="https://github.com/juliaDooby/React-threads-app">
     <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white" alt="Threads Badge"/>
   </a>
-  <a href="">
+  <a href="https://github.com/juliaDooby/React-Spotify-platform">
     <img src="https://img.shields.io/badge/Spotify-ff751a?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge"/>
   </a>
-  <a href="">
+  <a href="https://juliadooby.github.io/home">
     <img src="https://img.shields.io/badge/Restaurant_Food_Delivery-cc0099?style=for-the-badge&logo=restaurant_food_delivery&logoColor=white" alt="restaurant_food_delivery Badge"/>
   </a>
-   <a href="">
-    <img src="https://img.shields.io/badge/Full_Stack_Shopping_Store-cc0099?style=for-the-badge&logo=full_stack_shopping_store&logoColor=white" alt="full_stack_shopping_store Badge"/>
+   <a href="https://github.com/juliaDooby/React-music-app-2.0">
+    <img src="https://img.shields.io/badge/React_music_app-000066?style=for-the-badge&logo=react_music_app&logoColor=white" alt="react_music_app Badge"/>
   </a>
+   <a href="https://juliadooby.github.io/React-chess/">
+    <img src="https://img.shields.io/badge/React_chess-661400?style=for-the-badge&logo=react_chess&logoColor=white" alt="react_chess Badge"/>
+  </a>
+<!--    <a href=""> -->
+<!--     <img src="https://img.shields.io/badge/Full_Stack_Shopping_Store-cc0099?style=for-the-badge&logo=full_stack_shopping_store&logoColor=white" alt="full_stack_shopping_store Badge"/>
+  </a> -->
 </div>
 <!--
 ![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)
