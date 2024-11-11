@@ -32,10 +32,18 @@
 <a href="https://www.leetcode.com/https://leetcode.com/juliadooby/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/juliadooby/" height="30" width="40" /></a>
 </p> -->
 <h3 align="left">Connect with Me :</h3>
-  
-<img src="" title="linkedin" alt="" width="40" height="40"/>&nbsp; 
-<img src="" title="gmail" alt="" width="40" height="40"/>&nbsp; 
-<img src="" title="portfolio" alt="" width="40" height="40"/>&nbsp; 
+
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-gmail-URL">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=ff3333" alt="Gmail Badge"/>
+  </a>
+  <a href="your-portfolio-URL">
+    <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=portfolio&logoColor=cc0099" alt="Portfolio Badge"/>
+  </a>
+</div>
 
 <h3 align="left">Projects :</h3>
 
