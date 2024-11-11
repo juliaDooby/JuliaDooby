@@ -57,8 +57,8 @@
   <a href="https://github.com/juliaDooby/React-Spotify-platform">
     <img src="https://img.shields.io/badge/Spotify-ff751a?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge"/>
   </a>
-  <a href="https://juliadooby.github.io/home">
-    <img src="https://img.shields.io/badge/Restaurant_Food_Delivery-cc0099?style=for-the-badge&logo=restaurant_food_delivery&logoColor=white" alt="restaurant_food_delivery Badge"/>
+  <a href="https://juliadooby.github.io/React-food-delivery-app/">
+    <img src="https://img.shields.io/badge/Restaurant_Food_Delivery-e60000?style=for-the-badge&logo=restaurant_food_delivery&logoColor=white" alt="restaurant_food_delivery Badge"/>
   </a>
    <a href="https://github.com/juliaDooby/React-music-app-2.0">
     <img src="https://img.shields.io/badge/React_music_app-000066?style=for-the-badge&logo=react_music_app&logoColor=white" alt="react_music_app Badge"/>
