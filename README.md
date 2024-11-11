@@ -34,7 +34,7 @@
 <h3 align="left">Connect with Me :</h3>
 
 <div id="badges">
-  <a href="www.linkedin.com/in/juliadooby">
+  <a href="https://www.linkedin.com/in/juliadooby/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://login.live.com">
