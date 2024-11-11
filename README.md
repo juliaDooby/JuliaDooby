@@ -41,7 +41,7 @@
     <img src="https://img.shields.io/badge/Gmail-ff751a?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
     <a href="https://passport.yandex.ru/auth">
-    <img src="https://img.shields.io/badge/Yandex-ff751a?style=for-the-badge&logo=yandex&logoColor=white" alt="Gmail Badge"/>
+    <img src="https://img.shields.io/badge/Yandex-ff3300?style=for-the-badge&logo=yandex&logoColor=white" alt="Gmail Badge"/>
   </a>
 <!--   <a href="https://juliadooby.github.io/Portfolio/"> -->
     <img src="https://img.shields.io/badge/Portfolio-cc0099?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio Badge"/>
