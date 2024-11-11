@@ -22,7 +22,7 @@
   <!-- [juliaDooby Portfolio](  https://juliadooby.github.io/Portfolio/   ) -->
 - 💬 Ask me about **Javascript, React**
 
-- 📫 How to reach me **juliadooby@yandex.ru, (tg) @juliaDooby**
+- 📫 How to reach me **juliadooby@yandex.ru, juliadooby@outlook.com, Tgm/WhApp: @juliaDooby**
   
 - 🍎 My strong **key projects (pins) are below under This Profile** 
 
