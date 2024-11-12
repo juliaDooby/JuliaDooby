@@ -44,7 +44,7 @@
     <img src="https://img.shields.io/badge/Yandex-ff471a?style=for-the-badge&logo=yandex&logoColor=white" alt="Gmail Badge"/>
   </a>
 <!--   <a href="https://juliadooby.github.io/Portfolio/"> -->
-    <img src="https://img.shields.io/badge/Portfolio-cc0099?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio Badge"/>
+    <img src="https://img.shields.io/badge/Portfolio-b300b3?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </div>
 
