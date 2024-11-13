@@ -17,7 +17,8 @@
 
 - 🌱 I’m currently learning **React Native, Node.js**
 
-- 👨‍💻 All of my projects are available at **![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)**,
+- 👨‍💻 All of my projects are available at
+**![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)**,
 & my Github
   <!-- [juliaDooby Portfolio](  https://juliadooby.github.io/Portfolio/   ) -->
 - 💬 Ask me about **Javascript, React**
