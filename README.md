@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **React Native, Node.js**
 
-- 👨‍💻 All of my projects are available at ... ,
+- 👨‍💻 All of my projects are available at juliadooby.github.io/Portfolio/ ,
 & my Github
   <!-- [juliaDooby Portfolio](  https://juliadooby.github.io/Portfolio/   ) -->
 - 💬 Ask me about **Javascript, React**
@@ -43,7 +43,7 @@
     <a href="https://passport.yandex.ru/auth">
     <img src="https://img.shields.io/badge/Yandex-ff471a?style=for-the-badge&logo=yandex&logoColor=white" alt="Gmail Badge"/>
   </a>
-<!--   <a href="https://juliadooby.github.io/Portfolio/"> -->
+  <a href="juliadooby.github.io/Portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-b300b3?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </div>
