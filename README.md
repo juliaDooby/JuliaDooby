@@ -17,8 +17,8 @@
 
 - 🌱 I’m currently learning **React Native, Node.js**
 
-- 👨‍💻 All of my projects are available at juliadooby.github.io/Portfolio/ ,
-& my Github
+- 👨‍💻 All of my projects are available at
+juliadooby.github.io/Portfolio/ , & my Github
   <!-- [juliaDooby Portfolio](  https://juliadooby.github.io/Portfolio/   ) -->
 - 💬 Ask me about **Javascript, React**
 
