@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **React Native, Node.js**
 
-- 👨‍💻 All of my projects are available at my Portfolio Website, & my Github
+- 👨‍💻 All of my projects are available at my Portfolio Website, & my Github 
 - 💬 Ask me about **Javascript, React**
 
 - 📫 How to reach me **juliadooby@yandex.ru, juliadooby@outlook.com, Tlgm/WhApp: @juliaDooby**
@@ -43,6 +43,7 @@
   </a>
   <a href="juliadooby.github.io/Portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-b300b3?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio Badge"/>
+  ### Weblink:  [juliaDooby Portfolio](https://juliadooby.github.io/Portfolio/) 
   </a>
 </div>
 
