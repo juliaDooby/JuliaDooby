@@ -41,11 +41,12 @@
     <a href="https://passport.yandex.ru/auth">
     <img src="https://img.shields.io/badge/Yandex-ff471a?style=for-the-badge&logo=yandex&logoColor=white" alt="Gmail Badge"/>
   </a>
-<!--   <a href="juliadooby.github.io/Portfolio/">
+  <a href="https://juliadooby.github.io/Portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-b300b3?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio Badge"/>
-  </a> -->
+  </a>
 </div>
-  ### Weblink:  [juliaDooby Portfolio](https://juliadooby.github.io/Portfolio/) 
+
+<!-- [juliaDooby Portfolio](https://juliadooby.github.io/Portfolio/) -->
 
 <h3 align="left">Projects :</h3>
 
