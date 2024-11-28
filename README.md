@@ -302,6 +302,6 @@
 
 </div>
 
-<div ><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTZib24wcmRwdzN5aXJ4NWF3b2V0cG44cWNrZjY0bG1zZzF6aWdleCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6ZsZwsU65E0qcok8/giphy.gif"></img></div>
+<div ><img align="center" margin-top="-3" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTZib24wcmRwdzN5aXJ4NWF3b2V0cG44cWNrZjY0bG1zZzF6aWdleCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6ZsZwsU65E0qcok8/giphy.gif"></img></div>
 
 <!-- <div align="center"><img src="https://cdnb.artstation.com/p/assets/images/images/038/044/655/original/pixel-jeff-alley.gif?1622025440" width="45%"></img></div>  width="100%" height="60%" -->
