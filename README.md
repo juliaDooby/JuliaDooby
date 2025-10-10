@@ -31,8 +31,9 @@
 </p> -->
 <h3 align="left">Connect with Me :</h3>
 
-<div class="badge-base LI-profile-badge" data-locale="ru_RU" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="juliadooby" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ru.linkedin.com/in/juliadooby?trk=profile-badge">Julia Miroshnichenko</a></div>
-
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"><div class="badge-base LI-profile-badge" data-locale="ru_RU" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="juliadooby" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ru.linkedin.com/in/juliadooby?trk=profile-badge">Julia Miroshnichenko</a></div>
+              </script>
+              
 <div id="badges">
   <a href="https://www.linkedin.com/in/juliadooby/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
