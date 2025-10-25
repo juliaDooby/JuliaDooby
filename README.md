@@ -8,6 +8,9 @@
 <!-- ***<h3 align="center">A passionate Frontend Developer from Moscow</h3>*** -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=500&color=D95507&background=FF000000&center=true&vCenter=true&random=false&width=800&lines=A+passionate+Frontend++Developer;Web+Developer+from+Moscow;+React+Frontend+Developer;React+Js+Developer+;Web+Js+Developer)](https://git.io/typing-svg)
 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=500&color=D95507&background=FF000000&center=true&vCenter=true&random=false&width=800&lines=A+passionate+Middle++Developer;Web+Developer+from+Moscow;+React+Frontend+Developer;React+Js+Developer+;Web+Js+Developer)](https://git.io/typing-svg)
+
 <img align="right" alt="Coding" width="400" height="300" style="box-shadow: 3px 3px 3px gray;" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juliadooby&label=Profile%20views&color=0e75b6&style=flat" alt="juliadooby" /> </p>
@@ -15,7 +18,7 @@
 
 - 🔭 I’m currently working on **React E-Commerce Shopping App**
 
-- 🌱 I’m currently learning **React Native, Node.js**
+- 🌱 I’m currently learning **React Native, Java**
 
 - 👨‍💻 All of my projects are available at my Portfolio Website, & my Github 
 - 💬 Ask me about **Javascript, React**
