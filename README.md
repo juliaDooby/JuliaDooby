@@ -6,7 +6,7 @@
 
 ***<h1 align="center" margin-top="-3">Hi 👋, I'm Julia 🍂 Miroshnichenko</h1>***
 <!-- ***<h3 align="center">A passionate Frontend Developer from Moscow</h3>*** -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=500&color=D95507&background=FF000000&center=true&vCenter=true&random=false&width=800&lines=A+passionate+Full+Stack++Developer;Web+Developer+from+Moscow;+React+Frontend+Developer;React+Js+Developer+;Web+Js+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=500&color=D95507&background=FF000000&center=true&vCenter=true&random=false&width=800&lines=A+passionate+Full+Stack+Developer;Web+Developer+from+Moscow;+React+Frontend+Developer;React+Js+Developer+;Web+Js+Developer)](https://git.io/typing-svg)
 
 <!-- ** [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=500&color=D95507&background=FF000000&center=true&vCenter=true&random=false&width=800&lines=A+passionate+Middle+FullStack++Developer;Web+Developer+from+Moscow;+React+Frontend+Developer;React+Js+Developer+;Web+Js+Developer)](https://git.io/typing-svg) *** -->
 
